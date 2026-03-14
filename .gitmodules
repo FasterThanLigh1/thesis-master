@@ -1,0 +1,3 @@
+[submodule "auto-it-gen"]
+	path = auto-it-gen
+	url = git@github.com:FasterThanLigh1/itellij-integration-test-gen-plugin.git
