@@ -1,0 +1,270 @@
+\documentclass[14pt]{article}
+\usepackage{vntex}
+\usepackage{booktabs}% http://ctan.org/pkg/booktabs
+\newcommand{\tabitem}{~~\llap{\textbullet}~~}
+\usepackage[table]{xcolor} 
+\usepackage{enumitem}
+
+\usepackage{a4wide,amssymb,epsfig,latexsym,array,hhline,fancyhdr}
+\usepackage[normalem]{ulem}
+%\usepackage{soul}
+\usepackage[english]{babel}
+\usepackage[makeroom]{cancel}
+\usepackage{amsmath}
+\usepackage{amsthm}
+\usepackage{multicol,longtable,amscd}
+\usepackage{diagbox}%Make diagonal lines in tables
+\usepackage{booktabs}
+\usepackage{alltt}
+\usepackage[framemethod=tikz]{mdframed}% For highlighting paragraph backgrounds
+\usepackage{caption,subcaption}
+\usepackage{makecell}
+\usepackage{lastpage}
+\usepackage[lined,boxed,commentsnumbered]{algorithm2e}
+\usepackage{enumerate}
+\usepackage{color}
+\usepackage{graphicx}							% Standard graphics package
+\usepackage{array}
+\usepackage{breakurl}
+\usepackage{tabularx, caption}
+\usepackage{multirow}
+\usepackage{multicol}
+\usepackage{rotating}
+\usepackage{float}
+\usepackage{graphics}
+\usepackage{geometry}
+\usepackage{setspace}
+\usepackage{epsfig}
+\usepackage{listings}
+\usepackage{xcolor}
+\usepackage{tikz}
+\usetikzlibrary{arrows,snakes,backgrounds}
+\usepackage[unicode]{hyperref}
+\hypersetup{urlcolor=black,linkcolor=black,citecolor=black,colorlinks=true} 
+%\usepackage{pstcol} 								% PSTricks with the standard color package
+
+\usepackage[normalem]{ulem}
+
+\newtheorem{theorem}{{\bf Định lý}}
+\newtheorem{property}{{\bf Tính chất}}
+\newtheorem{proposition}{{\bf Mệnh đề}}
+\newtheorem{corollary}[proposition]{{\bf Hệ quả}}
+\newtheorem{lemma}[proposition]{{\bf Bổ đề}}
+\theoremstyle{definition}
+\newtheorem{exer}{Bài toán}
+
+% Mấy cái mới thêm để cho cái bảng
+\usepackage{blindtext} % to generate dummy text
+\newcolumntype{P}[1]{>{\centering\arraybackslash}p{#1}}
+\newcommand\tab[1][1cm]{\hspace*{#1}}
+
+
+
+\def\thesislayout{	% A4: 210 × 297
+	\geometry{
+		a4paper,
+		total={160mm,240mm},  % fix over page
+		left=30mm,
+		top=30mm,
+	}
+}
+
+
+\thesislayout
+
+%\usepackage{fancyhdr}
+\setlength{\headheight}{40pt}
+\pagestyle{fancy}
+\fancyhead{} % clear all header fields
+\fancyhead[L]{
+    \rowcolors{1}{white!40!white!50}{white!20!white!40}
+    \setlength{\leftmargini}{0cm}
+    \setlength{\arrayrulewidth}{0.5mm}
+    \setlength{\tabcolsep}{5px}
+    \renewcommand{\arraystretch}{0}
+ \begin{tabular}{rl}
+    \begin{picture}(25,15)(0,0)
+    \put(0,-8){\includegraphics[width=8mm, height=8mm]{Images/hcmut.png}}
+    %\put(0,-8){\epsfig{width=10mm,figure=hcmut.eps}}
+   \end{picture}&
+	%\includegraphics[width=8mm, height=8mm]{hcmut.png} & %
+	\begin{tabular}{l}
+		\textbf{\bf \ttfamily Trường Đại Học Bách Khoa Tp.Hồ Chí Minh}\\
+		\textbf{\bf \ttfamily Khoa Khoa Học \& Kỹ Thuật Máy Tính}
+	\end{tabular} 	
+ \end{tabular}
+}
+\fancyhead[R]{
+     }
+\fancyfoot{} % clear all footer fields
+\fancyfoot[L]{\scriptsize \ttfamily Laws, Policies, and Standard in Cybersecurity (CO5159) - Academic Year 2025-2026}
+\fancyfoot[R]{\scriptsize \ttfamily Page {\thepage}/\pageref{LastPage}}
+\renewcommand{\headrulewidth}{0.3pt}
+\renewcommand{\footrulewidth}{0.3pt}
+
+
+%%%
+ 
+\setcounter{secnumdepth}{4}
+\setcounter{tocdepth}{3}
+\makeatletter
+\newcounter {subsubsubsection}[subsubsection]
+\renewcommand\thesubsubsubsection{\thesubsubsection .\@alph\c@subsubsubsection}
+\newcommand\subsubsubsection{\@startsection{subsubsubsection}{4}{\z@}%
+                                     {-3.25ex\@plus -1ex \@minus -.2ex}%
+                                     {1.5ex \@plus .2ex}%
+                                     {\normalfont\normalsize\bfseries}}
+\newcommand*\l@subsubsubsection{\@dottedtocline{3}{10.0em}{4.1em}}
+\newcommand*{\subsubsubsectionmark}[1]{}
+\makeatother
+
+\sloppy
+\captionsetup[figure]{labelfont={small,bf},textfont={small,it},belowskip=-1pt,aboveskip=-9pt}
+%space remove between caption, figure, and text
+\captionsetup[table]{labelfont={small,bf},textfont={small,it},belowskip=-1pt,aboveskip=7pt}
+%space remove between caption, table, and text
+
+%\floatplacement{figure}{H}%forced here float placement automatically for figures
+%\floatplacement{table}{H}%forced here float placement automatically for table
+%the following settings (11 lines) are to remove white space before or after the figures and tables
+%\setcounter{topnumber}{2}
+%\setcounter{bottomnumber}{2}
+%\setcounter{totalnumber}{4}
+%\renewcommand{\topfraction}{0.85}
+%\renewcommand{\bottomfraction}{0.85}
+%\renewcommand{\textfraction}{0.15}
+%\renewcommand{\floatpagefraction}{0.8}
+%\renewcommand{\textfraction}{0.1}
+\setlength{\floatsep}{5pt plus 2pt minus 2pt}
+\setlength{\textfloatsep}{5pt plus 2pt minus 2pt}
+\setlength{\intextsep}{10pt plus 2pt minus 2pt}
+
+
+
+
+%New colors defined below
+\definecolor{codegreen}{rgb}{0,0.6,0}
+\definecolor{codegray}{rgb}{0.5,0.5,0.5}
+\definecolor{codepurple}{rgb}{0.58,0,0.82}
+\definecolor{backcolour}{rgb}{0.95,0.95,0.92}
+
+%Code listing style named "mystyle"
+\lstdefinestyle{mystyle}{
+  backgroundcolor=\color{backcolour}, commentstyle=\color{codegreen},
+  keywordstyle=\color{magenta},
+  numberstyle=\tiny\color{codegray},
+  stringstyle=\color{codepurple},
+  basicstyle=\ttfamily\footnotesize,
+  breakatwhitespace=false,         
+  breaklines=true,                 
+  captionpos=b,                    
+  keepspaces=true,                 
+  numbers=left,                    
+  numbersep=5pt,                  
+  showspaces=false,                
+  showstringspaces=false,
+  showtabs=false,                  
+  tabsize=2
+}
+
+%"mystyle" code listing set
+\lstset{style=mystyle}
+
+\thesislayout
+
+\begin{document}
+\begin{titlepage}
+\begin{center}
+ĐẠI HỌC QUỐC GIA THÀNH PHỐ HỒ CHÍ MINH \\
+TRƯỜNG ĐẠI HỌC BÁCH KHOA \\
+KHOA KHOA HỌC \& KỸ THUẬT MÁY TÍNH 
+\end{center}
+
+\vspace{1cm}
+
+\begin{figure}[h!]
+\begin{center}
+\includegraphics[width=3cm]{Images/hcmut.png}
+\end{center}
+\end{figure}
+
+\vspace{1cm}
+
+
+
+\begin{center}
+\begin{tabular}{c}
+\textbf{\Large Laws, Policies, and Standard in Cybersecurity - CO5159} \\
+\\
+\hline \\[-0.5em]  % Dòng này tạo khoảng cách phía trên tiêu đề
+\textbf{\Large
+\parbox{0.9\linewidth}{\centering
+A case study on Product Fruits' journey to \\ 
+SOC 2 Type 2 certification}
+} \\[1.2em]  % Dòng này tạo khoảng cách phía dưới tiêu đề
+\hline
+\end{tabular}
+\end{center}
+
+
+\vspace{1.5cm}
+\begin{center}
+\large
+\large
+\begin{table}[h]
+\begin{tabular}{rrl}
+\hspace{5 cm} & Teacher: &PhD.Phan Trọng Nhân\\
+
+
+& Student: & Hà Trung Kiên - 2470723\\
+& & Hà Phan Thiên Phú - 2470726\\
+& & Nguyễn Huy Hoàng - 2570088\\
+& & Ủ Minh Quân - 2470691\\
+& & Nguyễn Hoàng Nam - 2570261\\
+
+\end{tabular}
+\end{table}
+\end{center}
+\vspace{1.5cm}
+\begin{center}
+{\footnotesize Ho Chi Minh City, Nov 2025}
+\end{center}
+\end{titlepage}
+
+\newpage
+\addcontentsline{toc}{section}{References}
+
+\begin{thebibliography}{9}
+\bibitem{soc2_productfruits} 
+Product Fruits. (2023). 
+\textit{SOC 2 Type 2 Report}. 
+Retrieved from \url{https://productfruits.com/docs/soc2-type2.pdf}
+
+ \bibitem{soc2_guide} AICPA \& CIMA (2023)
+\textit{2017 Trust Services Criteria (With Revised Points of Focus – 2022)}
+\url{https://www.aicpa-cima.com/resources/download/2017-trust-services-criteria-with-revised-points-of-focus-2022} \label{soc2_guide}
+\bibitem{aws_incident} 
+Cyber Press (2025). 
+\textit{Massive AWS Outage Disrupts Internet – Amazon, Snapchat, Prime Video, Canva, and More Down}. 
+Retrieved from \url{https://cyberpress.org/massive-aws-outage/} \label{aws_incident}
+
+
+\bibitem{soc2_pendo} 
+Pendo.io. (2018). 
+\textit{\#1 Global Software Experience Management Platform}. 
+Retrieved from \url{https://www.pendo.io/pendo-blog/tag/soc-2/} 
+
+\bibitem{soc2_Userpilot} 
+Userpilot. (2025). \textit{Convert Visitors Into Paying Customers}. 
+Retrieved from \url{https://userpilot.com/role/marketing/}
+
+\bibitem{soc2_UserGuiding} 
+UserGuiding. (2025). \textit{Advice and answers from the UserGuiding Team}. 
+Retrieved from \url{https://help.userguiding.com/en/articles/759-soc-2-type-2/}
+
+\bibitem{soc2_Appcues} 
+Appcues. (2019). \textit{Security at Appcues}. 
+Retrieved from \url{https://trust.appcues.com/}
+\end{thebibliography} 
+
+\end{document}

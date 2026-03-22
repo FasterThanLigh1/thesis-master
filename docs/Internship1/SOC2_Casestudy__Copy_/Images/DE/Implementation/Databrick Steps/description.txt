@@ -1,0 +1,20 @@
+1. Tạo Cluster cho databrick để có thể run được notebook (ở đây nhóm sử dụng Standard_DS3_v2 vì nó chỉ tiêu tốn 1.5 DBU/h và chỉ dùng single node để tiết kiệm chi phí)
+2. Connect DataBrick to storage_account
+3. Get data from ADLS to dataframe
+3.1 cont
+3.2 cont
+3.3 cont
+4. Load BERT model and run model through the comment table
+4.1 cont
+5. Câu khá dài 1
+6. Caculate the average rating in rating table
+7. Calculate the number of selling days based on the product's publication date.
+8. Join all 3 tables: product, comment, rating into one
+8.1 cont
+9. Using random forest to predict the potential products
+9.1 cont
+9.2 cont
+10. Devide df_product_rfc into 3 small tables. Each of them is represent one type of classification (potential, harmful, neutral)
+11. Save 3 tables to delta lake
+12. power bi
+13. job schedule

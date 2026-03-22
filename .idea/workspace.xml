@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a7fe93d0-5c9d-4a5f-9fa5-ed297b622457" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/target-microservices/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target-microservices/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target-microservices/.idea/copilot.data.migration.ask2agent.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target-microservices/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target-microservices/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target-microservices/.idea/material_theme_project_new.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target-microservices/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target-microservices/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target-microservices/.idea/target-microservices.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target-microservices/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target-microservices/auth/src/main/java/com/quanu/auth/controller/AuthController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target-microservices" beforeDir="false" afterPath="$PROJECT_DIR$/target-microservices" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target-microservices/auth/mvnw" beforeDir="false" afterPath="$PROJECT_DIR$/target-microservices/auth/mvnw" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target-microservices/auth/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target-microservices/auth/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target-microservices/auth/src/main/java/com/example/AuthApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target-microservices/auth/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target-microservices/auth/src/test/java/com/example/AuthApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target-microservices/configserver/.gitattributes" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target-microservices/configserver/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target-microservices/configserver/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target-microservices/configserver/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target-microservices/configserver/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target-microservices/configserver/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target-microservices/configserver/src/main/java/com/example/ConfigserverApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target-microservices/configserver/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target-microservices/configserver/src/test/java/com/example/ConfigserverApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target-microservices/eureka/mvnw" beforeDir="false" afterPath="$PROJECT_DIR$/target-microservices/eureka/mvnw" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target-microservices/eureka/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target-microservices/eureka/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target-microservices/eureka/src/main/java/com/example/EurekaApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target-microservices/eureka/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target-microservices/eureka/src/test/java/com/example/EurekaApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target-microservices/gateway/.gitattributes" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target-microservices/gateway/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target-microservices/gateway/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target-microservices/gateway/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target-microservices/gateway/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target-microservices/gateway/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target-microservices/gateway/src/main/java/com/example/GatewayApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target-microservices/gateway/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target-microservices/gateway/src/test/java/com/example/GatewayApplicationTests.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CopilotPersistence">
+    <persistenceIdMap>
+      <entry key="_/Users/skywalkeranakin/Project/ThesisMaster" value="3AKDykMRoftrQ84SLefgn628VMu" />
+    </persistenceIdMap>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="3AKDykMRoftrQ84SLefgn628VMu" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/skywalkeranakin/Project/ThesisMaster&quot;
+  }
+}</component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-30f59d01ecdd-2fc7cc6b9a17-intellij.indexing.shared.core-IU-253.31033.145" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a7fe93d0-5c9d-4a5f-9fa5-ed297b622457" name="Changes" comment="" />
+      <created>1772332624573</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1772332624573</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="github-copilot-workspace">
+    <instructionFileLocations>
+      <option value=".github/instructions" />
+    </instructionFileLocations>
+    <promptFileLocations>
+      <option value=".github/prompts" />
+    </promptFileLocations>
+  </component>
+</project>

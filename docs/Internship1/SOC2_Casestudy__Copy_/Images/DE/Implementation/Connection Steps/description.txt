@@ -1,0 +1,14 @@
+1. Tạo Azure Database for MySQL servers (Note: sẽ có những vùng không hỗ trợ MySQL server. Trong bài làm này, nhóm sẽ sử dụng region là East Asia)
+2. Kết nối MySQL Workbench với Azure Database for MySQL servers thông qua Server Name và Server admin login name
+2.1. Dữ liệu trong MySQL
+2.2. Tạo Storage accounts để làm data lake lưu dữ liệu
+
+3. import copy data vào pipeline sau khi tạo data factory
+
+đối với mỗi activity copy data
+4. Setup linked service tại data factory để xác định database mysql sẽ truy cập để ingest trong mục source
+5. Setup linked service tại data factory để xác định storage để lưu trữ data sau khi ingest trong mục sink
+
+6. Debug pipeline
+7. Kết quả file csv trả về sẽ được lưu trong account storage
+8. Add daily trigger to pipeline

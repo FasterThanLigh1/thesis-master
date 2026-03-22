@@ -1,0 +1,58 @@
+\begin{thebibliography}{1}
+
+\bibitem{aws_siemens2019}
+{Amazon Web Services}.
+\newblock Building on aws: The architecture of the siemens mindsphere platform
+  (mfg202).
+\newblock
+  \url{https://d1.awsstatic.com/events/reinvent/2019/Building_on_AWS_The_architecture_of_the_Siemens_MindSphere_platform_MFG202.pdf},
+  2019.
+\newblock Truy cập: 2026.
+
+\bibitem{chen2019animegan}
+Jie Chen, Gang Liu, and Xin Chen.
+\newblock Animegan: A novel lightweight gan for photo animation.
+\newblock In {\em ISICA 2019: Artificial Intelligence Algorithms and
+  Applications}, pages 242--256, 2019.
+
+\bibitem{databricks_johndeere}
+{Databricks}.
+\newblock Down to the individual grain: How john deere uses industrial ai to
+  increase crop yields.
+\newblock
+  \url{https://www.databricks.com/blog/2021/07/09/down-to-the-individual-grain-how-john-deere-uses-industrial-ai-to-increase-crop-yields-through-precision-agriculture.html},
+  2021.
+\newblock Truy cập: 2026.
+
+\bibitem{garrison2017}
+Justin Garrison and Kris Nova.
+\newblock {\em Cloud Native Infrastructure: Patterns for Scalable
+  Infrastructure and Applications in a Dynamic Environment}.
+\newblock O'Reilly Media, Sebastopol, CA, 2017.
+
+\bibitem{gfg_edge_cloud}
+{GeeksforGeeks}.
+\newblock Edge cloud architecture in distributed system, 2024.
+\newblock Truy cập: 2026.
+
+\bibitem{lea2018}
+Perry Lea.
+\newblock {\em Internet of Things for Architects: Architecting IoT solutions by
+  implementing sensors, communication infrastructure, edge computing,
+  analytics, and security}.
+\newblock Packt Publishing, Birmingham, UK, 2018.
+
+\bibitem{ms_rollsroyce}
+{Microsoft Customer Stories}.
+\newblock Rolls-royce advances aviation with azure databricks and azure iot.
+\newblock
+  \url{https://www.microsoft.com/en/customers/story/23201-rolls-royce-azure-databricks},
+  2020.
+\newblock Truy cập: 2026.
+
+\bibitem{richards2020}
+Mark Richards and Neal Ford.
+\newblock {\em Fundamentals of Software Architecture: An Engineering Approach}.
+\newblock O'Reilly Media, Sebastopol, CA, 2020.
+
+\end{thebibliography}

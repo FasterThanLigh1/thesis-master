@@ -1,0 +1,109 @@
+% 'draft' mode can be used to speed up compilation
+\documentclass[twoside,final]{hcmut-report}
+\usepackage{codespace}
+\usepackage{fvextra}
+\usepackage{graphicx}
+\usepackage{titlesec}
+\usepackage{algorithm}
+\usepackage{algpseudocode}
+\usepackage{tikz}
+\usetikzlibrary{arrows.meta, matrix, positioning}
+\setcounter{secnumdepth}{4}
+% \usepackage[vietnamese,english]{babel}
+\titleformat{\paragraph}
+{\normalfont\normalsize\bfseries}{\theparagraph}{1em}{}
+\titlespacing*{\paragraph}
+{0pt}{3.25ex plus 1ex minus .2ex}{1.5ex plus .2ex}
+\usepackage{subcaption}
+\usepackage{float}
+\usepackage{xurl}
+% Draft watermark
+% https://github.com/callegar/LaTeX-draftwatermark
+
+% Encodings
+\usepackage{gensymb,textcomp}
+
+% Better tables
+% Wide tables go to https://tex.stackexchange.com/q/332902
+\usepackage{array,longtable,multicol,multirow,siunitx,tabularx}
+
+% Better enum
+\usepackage{enumitem}
+
+% Graphics
+\usepackage{caption,float}
+
+% Add options for figures, like max width, framing, etc.
+\usepackage[export]{adjustbox}
+
+% References
+% Use \Cref{} instead of \ref{}
+\usepackage[nameinlink]{cleveref}
+
+\usepackage{fontspec}
+\usepackage{polyglossia}
+\setmainlanguage{vietnamese}
+
+% Chọn font có hỗ trợ tiếng Việt
+\setmainfont{Times New Roman}
+
+% FOR DEMONSTRATION PURPOSES, REMOVE IN PRODUCTION
+\usepackage{mwe}
+
+
+\DefineVerbatimEnvironment{verbatim}{Verbatim}{breaklines,commandchars=\\\{\},codes={\catcode`\$=3\catcode`\_=8},formatcom=\color{black},fontsize=\small}
+
+
+% Sub-preambles
+% https://github.com/MartinScharrer/standalone
+
+% Configurations
+\coursename{\huge{Thực tập 1}}
+\title{Phát triển Plugin IntelliJ để tự động sinh kiểm thử tích hợp cho Microservices Spring Boot sử dụng phân tích tĩnh dựa trên PSI và RAG}
+\advisor{& TS. Nguyễn Quốc Minh &}
+\stuname{%
+  & Ủ Minh Quân - 2470691 
+}
+
+% Allow page breaks inside align* environment
+%\allowdisplaybreaks{}
+
+% Makes a lot of things blue, avoid at all costs
+%\everymath{\color{blue}}
+
+% Set depth of numbering for counters
+\AtBeginDocument{\counterwithin{lstlisting}{section}}
+
+% Rename some sections
+%\AtBeginDocument{\renewcommand*{\contentsname}{Contents}}
+%\AtBeginDocument{\renewcommand*{\refname}{References}}
+%\AtBeginDocument{\renewcommand*{\bibname}{References}}
+
+% Custom commands
+%\newcommand*\mean[1]{\bar{#1}}
+
+\begin{document}
+\coverpage%
+
+\tableofcontents
+\listoffigures
+\listoftables
+% \lstlistoflistings{}
+
+\clearpage
+
+\input{content/overview}
+
+\input{content/characteristics}
+
+\input{content/pattern_tradeoff}
+
+\input{content/case_study}
+
+\input{content/conclusion.tex}
+
+\newpage
+\bibliographystyle{plain}
+\bibliography{refs/example}
+\nocite{*}
+\end{document}

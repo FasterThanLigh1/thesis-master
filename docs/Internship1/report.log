@@ -1,0 +1,2487 @@
+This is XeTeX, Version 3.141592653-2.6-0.999998 (TeX Live 2026) (preloaded format=xelatex 2026.3.21)  22 MAR 2026 23:57
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**report.tex
+(./report.tex
+LaTeX2e <2025-11-01>
+L3 programming layer <2026-01-19>
+(./hcmut-report.cls
+Document Class: hcmut-report 
+(/usr/local/texlive/2026/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2025/01/22 v1.4n Standard LaTeX document class
+(/usr/local/texlive/2026/texmf-dist/tex/latex/base/size12.clo
+File: size12.clo 2025/01/22 v1.4n Standard LaTeX file (size option)
+)
+\c@part=\count271
+\c@section=\count272
+\c@subsection=\count273
+\c@subsubsection=\count274
+\c@paragraph=\count275
+\c@subparagraph=\count276
+\c@figure=\count277
+\c@table=\count278
+\abovecaptionskip=\skip49
+\belowcaptionskip=\skip50
+\bibindent=\dimen148
+)
+(/usr/local/texlive/2026/texmf-dist/tex/latex/vntex/vntex.sty
+Package: vntex 2009/07/12 v1.1 support for Vietnamese
+
+(/usr/local/texlive/2026/texmf-dist/tex/latex/base/ifthen.sty
+Package: ifthen 2024/03/16 v1.1e Standard LaTeX ifthen package (DPC)
+)
+(/usr/local/texlive/2026/texmf-dist/tex/latex/base/fontenc.sty
+Package: fontenc 2025/07/18 v2.1d Standard LaTeX package
+
+(/usr/local/texlive/2026/texmf-dist/tex/latex/vntex/t5enc.def
+File: t5enc.def 2006/11/21 v1.4 Vietnamese T5 encoding
+)
+LaTeX Font Info:    Trying to load font information for T5+lmr on input line 11
+6.
+
+(/usr/local/texlive/2026/texmf-dist/tex/latex/lm/t5lmr.fd
+File: t5lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
+))
+(/usr/local/texlive/2026/texmf-dist/tex/latex/base/inputenc.sty
+Package: inputenc 2024/02/08 v1.3d Input encoding file
+\inpenc@prehook=\toks17
+\inpenc@posthook=\toks18
+
+
+Package inputenc Warning: inputenc package ignored with utf8 based engines.
+
+) (/usr/local/texlive/2026/texmf-dist/tex/latex/vntex/vncaps.tex
+File: vncaps.tex 2006/06/07 v1.1 Captions in Vietnamese
+))
+(/usr/local/texlive/2026/texmf-dist/tex/latex/anyfontsize/anyfontsize.sty
+Invalid UTF-8 byte or sequence at line 3 replaced by U+FFFD.
+Invalid UTF-8 byte or sequence at line 3 replaced by U+FFFD.
+Package: anyfontsize 2007/11/22 anyfontsize.sty by pts
+)
+(/usr/local/texlive/2026/texmf-dist/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2025/07/09 v2.17z AMS math features
+\@mathmargin=\skip51
+
+For additional information on amsmath, use the `?' option.
+(/usr/local/texlive/2026/texmf-dist/tex/latex/amsmath/amstext.sty
+Package: amstext 2024/11/17 v2.01 AMS text
+
+(/usr/local/texlive/2026/texmf-dist/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks19
+\ex@=\dimen149
+))
+(/usr/local/texlive/2026/texmf-dist/tex/latex/amsmath/amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen150
+)
+(/usr/local/texlive/2026/texmf-dist/tex/latex/amsmath/amsopn.sty
+Package: amsopn 2022/04/08 v2.04 operator names
+)
+\inf@bad=\count279
+LaTeX Info: Redefining \frac on input line 233.
+\uproot@=\count280
+\leftroot@=\count281
+LaTeX Info: Redefining \overline on input line 398.
+LaTeX Info: Redefining \colon on input line 409.
+\classnum@=\count282
+\DOTSCASE@=\count283
+LaTeX Info: Redefining \ldots on input line 495.
+LaTeX Info: Redefining \dots on input line 498.
+LaTeX Info: Redefining \cdots on input line 619.
+\Mathstrutbox@=\box53
+\strutbox@=\box54
+LaTeX Info: Redefining \big on input line 721.
+LaTeX Info: Redefining \Big on input line 722.
+LaTeX Info: Redefining \bigg on input line 723.
+LaTeX Info: Redefining \Bigg on input line 724.
+\big@size=\dimen151
+LaTeX Font Info:    Redeclaring font encoding OML on input line 742.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 743.
+\macc@depth=\count284
+LaTeX Info: Redefining \bmod on input line 904.
+LaTeX Info: Redefining \pmod on input line 909.
+LaTeX Info: Redefining \smash on input line 939.
+LaTeX Info: Redefining \relbar on input line 969.
+LaTeX Info: Redefining \Relbar on input line 970.
+\c@MaxMatrixCols=\count285
+\dotsspace@=\muskip17
+\c@parentequation=\count286
+\dspbrk@lvl=\count287
+\tag@help=\toks20
+\row@=\count288
+\column@=\count289
+\maxfields@=\count290
+\andhelp@=\toks21
+\eqnshift@=\dimen152
+\alignsep@=\dimen153
+\tagshift@=\dimen154
+\tagwidth@=\dimen155
+\totwidth@=\dimen156
+\lineht@=\dimen157
+\@envbody=\toks22
+\multlinegap=\skip52
+\multlinetaggap=\skip53
+\mathdisplay@stack=\toks23
+LaTeX Info: Redefining \[ on input line 2950.
+LaTeX Info: Redefining \] on input line 2951.
+)
+(/usr/local/texlive/2026/texmf-dist/tex/latex/amsfonts/amssymb.sty
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+
+(/usr/local/texlive/2026/texmf-dist/tex/latex/amsfonts/amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+))
+(/usr/local/texlive/2026/texmf-dist/tex/latex/base/fontenc.sty
+Package: fontenc 2025/07/18 v2.1d Standard LaTeX package
+)
+(/usr/local/texlive/2026/texmf-dist/tex/latex/geometry/geometry.sty
+Package: geometry 2020/01/02 v5.9 Page Geometry
+
+(/usr/local/texlive/2026/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
+\KV@toks@=\toks24
+)
+(/usr/local/texlive/2026/texmf-dist/tex/generic/iftex/ifvtex.sty
+Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
+
+(/usr/local/texlive/2026/texmf-dist/tex/generic/iftex/iftex.sty
+Package: iftex 2024/12/12 v1.0g TeX engine tests
+))
+\Gm@cnth=\count291
+\Gm@cntv=\count292
+\c@Gm@tempcnt=\count293
+\Gm@bindingoffset=\dimen158
+\Gm@wd@mp=\dimen159
+\Gm@odd@mp=\dimen160
+\Gm@even@mp=\dimen161
+\Gm@layoutwidth=\dimen162
+\Gm@layoutheight=\dimen163
+\Gm@layouthoffset=\dimen164
+\Gm@layoutvoffset=\dimen165
+\Gm@dimlist=\toks25
+)
+(/usr/local/texlive/2026/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2024/12/31 v1.2e Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/local/texlive/2026/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2024/08/06 v1.4g Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/local/texlive/2026/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2023/12/02 v1.11 sin cos tan (DPC)
+)
+(/usr/local/texlive/2026/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: xetex.def on input line 106.
+
+(/usr/local/texlive/2026/texmf-dist/tex/latex/graphics-def/xetex.def
+File: xetex.def 2025/11/01 v5.0p Graphics/color driver for xetex
+))
+\Gin@req@height=\dimen166
+\Gin@req@width=\dimen167
+)
+(/usr/local/texlive/2026/texmf-dist/tex/latex/tools/indentfirst.sty
+Package: indentfirst 2023/07/02 v1.03 Indent first paragraph (DPC)
+)
+(/usr/local/texlive/2026/texmf-dist/tex/latex/setspace/setspace.sty
+Package: setspace 2022/12/04 v6.7b set line spacing
+)
+(/usr/local/texlive/2026/texmf-dist/tex/latex/booktabs/booktabs.sty
+Package: booktabs 2020/01/12 v1.61803398 Publication quality tables
+\heavyrulewidth=\dimen168
+\lightrulewidth=\dimen169
+\cmidrulewidth=\dimen170
+\belowrulesep=\dimen171
+\belowbottomsep=\dimen172
+\aboverulesep=\dimen173
+\abovetopsep=\dimen174
+\cmidrulesep=\dimen175
+\cmidrulekern=\dimen176
+\defaultaddspace=\dimen177
+\@cmidla=\count294
+\@cmidlb=\count295
+\@aboverulesep=\dimen178
+\@belowrulesep=\dimen179
+\@thisruleclass=\count296
+\@lastruleclass=\count297
+\@thisrulewidth=\dimen180
+)
+(/usr/local/texlive/2026/texmf-dist/tex/latex/caption/caption.sty
+Package: caption 2023/08/05 v3.6o Customizing captions (AR)
+
+(/usr/local/texlive/2026/texmf-dist/tex/latex/caption/caption3.sty
+Package: caption3 2023/07/31 v2.4d caption3 kernel (AR)
+\caption@tempdima=\dimen181
+\captionmargin=\dimen182
+\caption@leftmargin=\dimen183
+\caption@rightmargin=\dimen184
+\caption@width=\dimen185
+\caption@indent=\dimen186
+\caption@parindent=\dimen187
+\caption@hangindent=\dimen188
+Package caption Info: Standard document class detected.
+)
+\c@caption@flags=\count298
+\c@continuedfloat=\count299
+)
+(/usr/local/texlive/2026/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
+Package: fancyhdr 2025/02/07 v5.2 Extensive control of page headers and footers
+
+\f@nch@headwidth=\skip54
+\f@nch@offset@elh=\skip55
+\f@nch@offset@erh=\skip56
+\f@nch@offset@olh=\skip57
+\f@nch@offset@orh=\skip58
+\f@nch@offset@elf=\skip59
+\f@nch@offset@erf=\skip60
+\f@nch@offset@olf=\skip61
+\f@nch@offset@orf=\skip62
+\f@nch@height=\skip63
+\f@nch@footalignment=\skip64
+\f@nch@widthL=\skip65
+\f@nch@widthC=\skip66
+\f@nch@widthR=\skip67
+\@temptokenb=\toks26
+)
+(/usr/local/texlive/2026/texmf-dist/tex/latex/hyperref/hyperref.sty
+Package: hyperref 2026-01-29 v7.01p Hypertext links for LaTeX
+
+(/usr/local/texlive/2026/texmf-dist/tex/latex/kvsetkeys/kvsetkeys.sty
+Package: kvsetkeys 2022-10-05 v1.19 Key value parser (HO)
+)
+(/usr/local/texlive/2026/texmf-dist/tex/generic/kvdefinekeys/kvdefinekeys.sty
+Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
+)
+(/usr/local/texlive/2026/texmf-dist/tex/generic/pdfescape/pdfescape.sty
+Package: pdfescape 2019/12/09 v1.15 Implements pdfTeX's escape features (HO)
+
+(/usr/local/texlive/2026/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty
+Package: ltxcmds 2023-12-04 v1.26 LaTeX kernel commands for general use (HO)
+)
+(/usr/local/texlive/2026/texmf-dist/tex/generic/pdftexcmds/pdftexcmds.sty
+Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+(/usr/local/texlive/2026/texmf-dist/tex/generic/infwarerr/infwarerr.sty
+Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
+)
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode not found.
+))
+(/usr/local/texlive/2026/texmf-dist/tex/latex/hycolor/hycolor.sty
+Package: hycolor 2020-01-27 v1.10 Color options for hyperref/bookmark (HO)
+)
+(/usr/local/texlive/2026/texmf-dist/tex/latex/hyperref/nameref.sty
+Package: nameref 2026-01-29 v2.58 Cross-referencing by name of section
+
+(/usr/local/texlive/2026/texmf-dist/tex/latex/refcount/refcount.sty
+Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
+)
+(/usr/local/texlive/2026/texmf-dist/tex/generic/gettitlestring/gettitlestring.s
+ty
+Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
+ (/usr/local/texlive/2026/texmf-dist/tex/latex/kvoptions/kvoptions.sty
+Package: kvoptions 2022-06-15 v3.15 Key value format for package options (HO)
+))
+\c@section@level=\count300
+)
+(/usr/local/texlive/2026/texmf-dist/tex/latex/etoolbox/etoolbox.sty
+Package: etoolbox 2025/10/02 v2.5m e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count301
+)
+(/usr/local/texlive/2026/texmf-dist/tex/generic/stringenc/stringenc.sty
+Package: stringenc 2019/11/29 v1.12 Convert strings between diff. encodings (HO
+)
+)
+\@linkdim=\dimen189
+\Hy@linkcounter=\count302
+\Hy@pagecounter=\count303
+
+(/usr/local/texlive/2026/texmf-dist/tex/latex/hyperref/pd1enc.def
+File: pd1enc.def 2026-01-29 v7.01p Hyperref: PDFDocEncoding definition (HO)
+)
+(/usr/local/texlive/2026/texmf-dist/tex/generic/intcalc/intcalc.sty
+Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
+)
+\Hy@SavedSpaceFactor=\count304
+
+(/usr/local/texlive/2026/texmf-dist/tex/latex/hyperref/puenc.def
+File: puenc.def 2026-01-29 v7.01p Hyperref: PDF Unicode definition (HO)
+)
+Package hyperref Info: Option `final' set `true' on input line 4072.
+Package hyperref Info: Hyper figures OFF on input line 4201.
+Package hyperref Info: Link nesting OFF on input line 4206.
+Package hyperref Info: Hyper index ON on input line 4209.
+Package hyperref Info: Plain pages OFF on input line 4216.
+Package hyperref Info: Backreferencing OFF on input line 4221.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks ON on input line 4468.
+\c@Hy@tempcnt=\count305
+
+(/usr/local/texlive/2026/texmf-dist/tex/latex/url/url.sty
+\Urlmuskip=\muskip18
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+LaTeX Info: Redefining \url on input line 4807.
+\XeTeXLinkMargin=\dimen190
+
+(/usr/local/texlive/2026/texmf-dist/tex/generic/bitset/bitset.sty
+Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
+
+(/usr/local/texlive/2026/texmf-dist/tex/generic/bigintcalc/bigintcalc.sty
+Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO
+)
+))
+\Fld@menulength=\count306
+\Field@Width=\dimen191
+\Fld@charsize=\dimen192
+Package hyperref Info: Hyper figures OFF on input line 6084.
+Package hyperref Info: Link nesting OFF on input line 6089.
+Package hyperref Info: Hyper index ON on input line 6092.
+Package hyperref Info: backreferencing OFF on input line 6099.
+Package hyperref Info: Link coloring OFF on input line 6104.
+Package hyperref Info: Link coloring with OCG OFF on input line 6109.
+Package hyperref Info: PDF/A mode OFF on input line 6114.
+\Hy@abspage=\count307
+\c@Item=\count308
+\c@Hfootnote=\count309
+)
+Package hyperref Info: Driver (autodetected): hxetex.
+
+(/usr/local/texlive/2026/texmf-dist/tex/latex/hyperref/hxetex.def
+File: hxetex.def 2026-01-29 v7.01p Hyperref driver for XeTeX
+\pdfm@box=\box55
+\c@Hy@AnnotLevel=\count310
+\HyField@AnnotCount=\count311
+\Fld@listcount=\count312
+\c@bookmark@seq@number=\count313
+
+(/usr/local/texlive/2026/texmf-dist/tex/latex/rerunfilecheck/rerunfilecheck.sty
+Package: rerunfilecheck 2025-06-21 v1.11 Rerun checks for auxiliary files (HO)
+
+(/usr/local/texlive/2026/texmf-dist/tex/generic/uniquecounter/uniquecounter.sty
+Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
+)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
+84.
+)
+\Hy@SectionHShift=\skip68
+) (/usr/local/texlive/2026/texmf-dist/tex/latex/natbib/natbib.sty
+Package: natbib 2010/09/13 8.31b (PWD, AO)
+\bibhang=\skip69
+\bibsep=\skip70
+LaTeX Info: Redefining \cite on input line 694.
+\c@NAT@ctr=\count314
+)
+(/usr/local/texlive/2026/texmf-dist/tex/generic/babel/babel.sty
+Package: babel 2026/02/14 v26.3 The multilingual framework for LuaLaTeX, pdfLaT
+eX and XeLaTeX
+\babel@savecnt=\count315
+LaTeX Encoding Info:    Redeclaring text command \ij (encoding OT1) on input li
+ne 2078.
+LaTeX Encoding Info:    Redeclaring text command \IJ (encoding OT1) on input li
+ne 2080.
+LaTeX Encoding Info:    Redeclaring text command \ij (encoding T1) on input lin
+e 2082.
+LaTeX Encoding Info:    Redeclaring text command \IJ (encoding T1) on input lin
+e 2083.
+LaTeX Encoding Info:    Ignoring declaration for text command \ij (encoding ?) 
+on input line 2084.
+LaTeX Encoding Info:    Ignoring declaration for text command \IJ (encoding ?) 
+on input line 2086.
+LaTeX Encoding Info:    Ignoring declaration for text command \SS (encoding ?) 
+on input line 2111.
+\U@D=\dimen193
+\l@unhyphenated=\language91
+
+(/usr/local/texlive/2026/texmf-dist/tex/generic/babel/xebabel.def)
+\bbl@readstream=\read2
+\bbl@dirlevel=\count316
+
+(/usr/local/texlive/2026/texmf-dist/tex/generic/babel/locale/en/babel-english.t
+ex)
+Package babel Info: Importing font and identification data for english
+(babel)             from babel-en.ini. Reported on input line 4330.
+ (/usr/local/texlive/2026/texmf-dist/tex/generic/babel-english/english.ldf
+Language: english 2017/06/06 v3.3r English support from the babel system
+))
+Package hyperref Info: Option `colorlinks' set `true' on input line 98.
+) (./codespace.sty
+Package: codespace 
+
+(/usr/local/texlive/2026/texmf-dist/tex/latex/xcolor/xcolor.sty
+Package: xcolor 2024/09/29 v3.02 LaTeX color extensions (UK)
+
+(/usr/local/texlive/2026/texmf-dist/tex/latex/graphics-cfg/color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: xetex.def on input line 274.
+
+(/usr/local/texlive/2026/texmf-dist/tex/latex/graphics/mathcolor.ltx)
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1349.
+Package xcolor Info: Model `RGB' extended on input line 1365.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1367.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1368.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1369.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1370.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1371.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1372.
+)
+(/usr/local/texlive/2026/texmf-dist/tex/latex/pgf/frontendlayer/tikz.sty
+(/usr/local/texlive/2026/texmf-dist/tex/latex/pgf/basiclayer/pgf.sty
+(/usr/local/texlive/2026/texmf-dist/tex/latex/pgf/utilities/pgfrcs.sty
+(/usr/local/texlive/2026/texmf-dist/tex/generic/pgf/utilities/pgfutil-common.te
+x
+\pgfutil@everybye=\toks27
+\pgfutil@tempdima=\dimen194
+\pgfutil@tempdimb=\dimen195
+)
+(/usr/local/texlive/2026/texmf-dist/tex/generic/pgf/utilities/pgfutil-latex.def
+\pgfutil@abb=\box56
+) (/usr/local/texlive/2026/texmf-dist/tex/generic/pgf/utilities/pgfrcs.code.tex
+(/usr/local/texlive/2026/texmf-dist/tex/generic/pgf/pgf.revision.tex)
+Package: pgfrcs 2025-08-29 v3.1.11a (3.1.11a)
+))
+Package: pgf 2025-08-29 v3.1.11a (3.1.11a)
+
+(/usr/local/texlive/2026/texmf-dist/tex/latex/pgf/basiclayer/pgfcore.sty
+(/usr/local/texlive/2026/texmf-dist/tex/latex/pgf/systemlayer/pgfsys.sty
+(/usr/local/texlive/2026/texmf-dist/tex/generic/pgf/systemlayer/pgfsys.code.tex
+Package: pgfsys 2025-08-29 v3.1.11a (3.1.11a)
+(/usr/local/texlive/2026/texmf-dist/tex/generic/pgf/utilities/pgfkeys.code.tex
+\pgfkeys@pathtoks=\toks28
+\pgfkeys@temptoks=\toks29
+
+(/usr/local/texlive/2026/texmf-dist/tex/generic/pgf/utilities/pgfkeyslibraryfil
+tered.code.tex
+\pgfkeys@tmptoks=\toks30
+))
+\pgf@x=\dimen196
+\pgf@y=\dimen197
+\pgf@xa=\dimen198
+\pgf@ya=\dimen199
+\pgf@xb=\dimen256
+\pgf@yb=\dimen257
+\pgf@xc=\dimen258
+\pgf@yc=\dimen259
+\pgf@xd=\dimen260
+\pgf@yd=\dimen261
+\w@pgf@writea=\write3
+\r@pgf@reada=\read3
+\c@pgf@counta=\count317
+\c@pgf@countb=\count318
+\c@pgf@countc=\count319
+\c@pgf@countd=\count320
+\t@pgf@toka=\toks31
+\t@pgf@tokb=\toks32
+\t@pgf@tokc=\toks33
+\pgf@sys@id@count=\count321
+
+(/usr/local/texlive/2026/texmf-dist/tex/generic/pgf/systemlayer/pgf.cfg
+File: pgf.cfg 2025-08-29 v3.1.11a (3.1.11a)
+)
+Driver file for pgf: pgfsys-xetex.def
+
+(/usr/local/texlive/2026/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-xetex.de
+f
+File: pgfsys-xetex.def 2025-08-29 v3.1.11a (3.1.11a)
+
+(/usr/local/texlive/2026/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-dvipdfmx
+.def
+File: pgfsys-dvipdfmx.def 2025-08-29 v3.1.11a (3.1.11a)
+
+(/usr/local/texlive/2026/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-common-p
+df.def
+File: pgfsys-common-pdf.def 2025-08-29 v3.1.11a (3.1.11a)
+)
+\pgfsys@objnum=\count322
+)))
+(/usr/local/texlive/2026/texmf-dist/tex/generic/pgf/systemlayer/pgfsyssoftpath.
+code.tex
+File: pgfsyssoftpath.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+\pgfsyssoftpath@smallbuffer@items=\count323
+\pgfsyssoftpath@bigbuffer@items=\count324
+)
+(/usr/local/texlive/2026/texmf-dist/tex/generic/pgf/systemlayer/pgfsysprotocol.
+code.tex
+File: pgfsysprotocol.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+))
+(/usr/local/texlive/2026/texmf-dist/tex/generic/pgf/basiclayer/pgfcore.code.tex
+Package: pgfcore 2025-08-29 v3.1.11a (3.1.11a)
+(/usr/local/texlive/2026/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex
+(/usr/local/texlive/2026/texmf-dist/tex/generic/pgf/math/pgfmathutil.code.tex)
+(/usr/local/texlive/2026/texmf-dist/tex/generic/pgf/math/pgfmathparser.code.tex
+\pgfmath@dimen=\dimen262
+\pgfmath@count=\count325
+\pgfmath@box=\box57
+\pgfmath@toks=\toks34
+\pgfmath@stack@operand=\toks35
+\pgfmath@stack@operation=\toks36
+)
+(/usr/local/texlive/2026/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.code.
+tex)
+(/usr/local/texlive/2026/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.basic
+.code.tex)
+(/usr/local/texlive/2026/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.trigo
+nometric.code.tex)
+(/usr/local/texlive/2026/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.rando
+m.code.tex)
+(/usr/local/texlive/2026/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.compa
+rison.code.tex)
+(/usr/local/texlive/2026/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.base.
+code.tex)
+(/usr/local/texlive/2026/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.round
+.code.tex)
+(/usr/local/texlive/2026/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.misc.
+code.tex)
+(/usr/local/texlive/2026/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.integ
+erarithmetics.code.tex)
+(/usr/local/texlive/2026/texmf-dist/tex/generic/pgf/math/pgfmathcalc.code.tex)
+(/usr/local/texlive/2026/texmf-dist/tex/generic/pgf/math/pgfmathfloat.code.tex
+\c@pgfmathroundto@lastzeros=\count326
+)) (/usr/local/texlive/2026/texmf-dist/tex/generic/pgf/math/pgfint.code.tex)
+(/usr/local/texlive/2026/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepoints.co
+de.tex
+File: pgfcorepoints.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+\pgf@picminx=\dimen263
+\pgf@picmaxx=\dimen264
+\pgf@picminy=\dimen265
+\pgf@picmaxy=\dimen266
+\pgf@pathminx=\dimen267
+\pgf@pathmaxx=\dimen268
+\pgf@pathminy=\dimen269
+\pgf@pathmaxy=\dimen270
+\pgf@xx=\dimen271
+\pgf@xy=\dimen272
+\pgf@yx=\dimen273
+\pgf@yy=\dimen274
+\pgf@zx=\dimen275
+\pgf@zy=\dimen276
+)
+(/usr/local/texlive/2026/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathconst
+ruct.code.tex
+File: pgfcorepathconstruct.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+\pgf@path@lastx=\dimen277
+\pgf@path@lasty=\dimen278
+)
+(/usr/local/texlive/2026/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathusage
+.code.tex
+File: pgfcorepathusage.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+\pgf@shorten@end@additional=\dimen279
+\pgf@shorten@start@additional=\dimen280
+)
+(/usr/local/texlive/2026/texmf-dist/tex/generic/pgf/basiclayer/pgfcorescopes.co
+de.tex
+File: pgfcorescopes.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+\pgfpic=\box58
+\pgf@hbox=\box59
+\pgf@layerbox@main=\box60
+\pgf@picture@serial@count=\count327
+)
+(/usr/local/texlive/2026/texmf-dist/tex/generic/pgf/basiclayer/pgfcoregraphicst
+ate.code.tex
+File: pgfcoregraphicstate.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+\pgflinewidth=\dimen281
+)
+(/usr/local/texlive/2026/texmf-dist/tex/generic/pgf/basiclayer/pgfcoretransform
+ations.code.tex
+File: pgfcoretransformations.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+\pgf@pt@x=\dimen282
+\pgf@pt@y=\dimen283
+\pgf@pt@temp=\dimen284
+)
+(/usr/local/texlive/2026/texmf-dist/tex/generic/pgf/basiclayer/pgfcorequick.cod
+e.tex
+File: pgfcorequick.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+)
+(/usr/local/texlive/2026/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreobjects.c
+ode.tex
+File: pgfcoreobjects.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+)
+(/usr/local/texlive/2026/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathproce
+ssing.code.tex
+File: pgfcorepathprocessing.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+)
+(/usr/local/texlive/2026/texmf-dist/tex/generic/pgf/basiclayer/pgfcorearrows.co
+de.tex
+File: pgfcorearrows.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+\pgfarrowsep=\dimen285
+)
+(/usr/local/texlive/2026/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreshade.cod
+e.tex
+File: pgfcoreshade.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+\pgf@max=\dimen286
+\pgf@sys@shading@range@num=\count328
+\pgf@shadingcount=\count329
+)
+(/usr/local/texlive/2026/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreimage.cod
+e.tex
+File: pgfcoreimage.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+)
+(/usr/local/texlive/2026/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreexternal.
+code.tex
+File: pgfcoreexternal.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+\pgfexternal@startupbox=\box61
+)
+(/usr/local/texlive/2026/texmf-dist/tex/generic/pgf/basiclayer/pgfcorelayers.co
+de.tex
+File: pgfcorelayers.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+)
+(/usr/local/texlive/2026/texmf-dist/tex/generic/pgf/basiclayer/pgfcoretranspare
+ncy.code.tex
+File: pgfcoretransparency.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+)
+(/usr/local/texlive/2026/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepatterns.
+code.tex
+File: pgfcorepatterns.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+)
+(/usr/local/texlive/2026/texmf-dist/tex/generic/pgf/basiclayer/pgfcorerdf.code.
+tex
+File: pgfcorerdf.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+)))
+(/usr/local/texlive/2026/texmf-dist/tex/generic/pgf/modules/pgfmoduleshapes.cod
+e.tex
+File: pgfmoduleshapes.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+\pgfnodeparttextbox=\box62
+)
+(/usr/local/texlive/2026/texmf-dist/tex/generic/pgf/modules/pgfmoduleplot.code.
+tex
+File: pgfmoduleplot.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+)
+(/usr/local/texlive/2026/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version
+-0-65.sty
+Package: pgfcomp-version-0-65 2025-08-29 v3.1.11a (3.1.11a)
+\pgf@nodesepstart=\dimen287
+\pgf@nodesepend=\dimen288
+)
+(/usr/local/texlive/2026/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version
+-1-18.sty
+Package: pgfcomp-version-1-18 2025-08-29 v3.1.11a (3.1.11a)
+))
+(/usr/local/texlive/2026/texmf-dist/tex/latex/pgf/utilities/pgffor.sty
+(/usr/local/texlive/2026/texmf-dist/tex/latex/pgf/utilities/pgfkeys.sty
+(/usr/local/texlive/2026/texmf-dist/tex/generic/pgf/utilities/pgfkeys.code.tex)
+) (/usr/local/texlive/2026/texmf-dist/tex/latex/pgf/math/pgfmath.sty
+(/usr/local/texlive/2026/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex))
+(/usr/local/texlive/2026/texmf-dist/tex/generic/pgf/utilities/pgffor.code.tex
+Package: pgffor 2025-08-29 v3.1.11a (3.1.11a)
+\pgffor@iter=\dimen289
+\pgffor@skip=\dimen290
+\pgffor@stack=\toks37
+\pgffor@toks=\toks38
+))
+(/usr/local/texlive/2026/texmf-dist/tex/generic/pgf/frontendlayer/tikz/tikz.cod
+e.tex
+Package: tikz 2025-08-29 v3.1.11a (3.1.11a)
+
+(/usr/local/texlive/2026/texmf-dist/tex/generic/pgf/libraries/pgflibraryplothan
+dlers.code.tex
+File: pgflibraryplothandlers.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+\pgf@plot@mark@count=\count330
+\pgfplotmarksize=\dimen291
+)
+\tikz@lastx=\dimen292
+\tikz@lasty=\dimen293
+\tikz@lastxsaved=\dimen294
+\tikz@lastysaved=\dimen295
+\tikz@lastmovetox=\dimen296
+\tikz@lastmovetoy=\dimen297
+\tikzleveldistance=\dimen298
+\tikzsiblingdistance=\dimen299
+\tikz@figbox=\box63
+\tikz@figbox@bg=\box64
+\tikz@tempbox=\box65
+\tikz@tempbox@bg=\box66
+\tikztreelevel=\count331
+\tikznumberofchildren=\count332
+\tikznumberofcurrentchild=\count333
+\tikz@fig@count=\count334
+
+(/usr/local/texlive/2026/texmf-dist/tex/generic/pgf/modules/pgfmodulematrix.cod
+e.tex
+File: pgfmodulematrix.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+\pgfmatrixcurrentrow=\count335
+\pgfmatrixcurrentcolumn=\count336
+\pgf@matrix@numberofcolumns=\count337
+)
+\tikz@expandcount=\count338
+
+(/usr/local/texlive/2026/texmf-dist/tex/generic/pgf/frontendlayer/tikz/librarie
+s/tikzlibrarytopaths.code.tex
+File: tikzlibrarytopaths.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+)))
+(/usr/local/texlive/2026/texmf-dist/tex/latex/mdframed/mdframed.sty
+Package: mdframed 2013/07/01 1.9b: mdframed
+
+(/usr/local/texlive/2026/texmf-dist/tex/latex/l3packages/xparse/xparse.sty
+(/usr/local/texlive/2026/texmf-dist/tex/latex/l3kernel/expl3.sty
+Package: expl3 2026-01-19 L3 programming layer (loader) 
+
+(/usr/local/texlive/2026/texmf-dist/tex/latex/l3backend/l3backend-xetex.def
+File: l3backend-xetex.def 2025-10-09 L3 backend support: XeTeX
+\g__graphics_track_int=\count339
+\g__pdfannot_backend_int=\count340
+\g__pdfannot_backend_link_int=\count341
+))
+Package: xparse 2025-10-09 L3 Experimental document command parser
+)
+(/usr/local/texlive/2026/texmf-dist/tex/latex/zref/zref-abspage.sty
+Package: zref-abspage 2025-06-08 v2.36 Module abspage for zref (HO)
+
+(/usr/local/texlive/2026/texmf-dist/tex/latex/zref/zref-base.sty
+Package: zref-base 2025-06-08 v2.36 Module base for zref (HO)
+
+(/usr/local/texlive/2026/texmf-dist/tex/generic/etexcmds/etexcmds.sty
+Package: etexcmds 2019/12/15 v1.7 Avoid name clashes with e-TeX commands (HO)
+)
+(/usr/local/texlive/2026/texmf-dist/tex/latex/auxhook/auxhook.sty
+Package: auxhook 2019-12-17 v1.6 Hooks for auxiliary files (HO)
+)
+Package zref Info: New property list: main on input line 767.
+Package zref Info: New property: default on input line 768.
+Package zref Info: New property: page on input line 769.
+)
+\c@abspage=\count342
+Package zref Info: New property: abspage on input line 67.
+)
+(/usr/local/texlive/2026/texmf-dist/tex/latex/needspace/needspace.sty
+Package: needspace 2025/03/13 v1.3e reserve vertical space
+)
+\mdf@templength=\skip71
+\c@mdf@globalstyle@cnt=\count343
+\mdf@skipabove@length=\skip72
+\mdf@skipbelow@length=\skip73
+\mdf@leftmargin@length=\skip74
+\mdf@rightmargin@length=\skip75
+\mdf@innerleftmargin@length=\skip76
+\mdf@innerrightmargin@length=\skip77
+\mdf@innertopmargin@length=\skip78
+\mdf@innerbottommargin@length=\skip79
+\mdf@splittopskip@length=\skip80
+\mdf@splitbottomskip@length=\skip81
+\mdf@outermargin@length=\skip82
+\mdf@innermargin@length=\skip83
+\mdf@linewidth@length=\skip84
+\mdf@innerlinewidth@length=\skip85
+\mdf@middlelinewidth@length=\skip86
+\mdf@outerlinewidth@length=\skip87
+\mdf@roundcorner@length=\skip88
+\mdf@footenotedistance@length=\skip89
+\mdf@userdefinedwidth@length=\skip90
+\mdf@needspace@length=\skip91
+\mdf@frametitleaboveskip@length=\skip92
+\mdf@frametitlebelowskip@length=\skip93
+\mdf@frametitlerulewidth@length=\skip94
+\mdf@frametitleleftmargin@length=\skip95
+\mdf@frametitlerightmargin@length=\skip96
+\mdf@shadowsize@length=\skip97
+\mdf@extratopheight@length=\skip98
+\mdf@subtitleabovelinewidth@length=\skip99
+\mdf@subtitlebelowlinewidth@length=\skip100
+\mdf@subtitleaboveskip@length=\skip101
+\mdf@subtitlebelowskip@length=\skip102
+\mdf@subtitleinneraboveskip@length=\skip103
+\mdf@subtitleinnerbelowskip@length=\skip104
+\mdf@subsubtitleabovelinewidth@length=\skip105
+\mdf@subsubtitlebelowlinewidth@length=\skip106
+\mdf@subsubtitleaboveskip@length=\skip107
+\mdf@subsubtitlebelowskip@length=\skip108
+\mdf@subsubtitleinneraboveskip@length=\skip109
+\mdf@subsubtitleinnerbelowskip@length=\skip110
+
+(/usr/local/texlive/2026/texmf-dist/tex/latex/mdframed/md-frame-1.mdf
+File: md-frame-1.mdf 2013/07/01\ 1.9b: md-frame-1
+)
+\mdf@frametitlebox=\box67
+\mdf@footnotebox=\box68
+\mdf@splitbox@one=\box69
+\mdf@splitbox@two=\box70
+\mdf@splitbox@save=\box71
+\mdfsplitboxwidth=\skip111
+\mdfsplitboxtotalwidth=\skip112
+\mdfsplitboxheight=\skip113
+\mdfsplitboxdepth=\skip114
+\mdfsplitboxtotalheight=\skip115
+\mdfframetitleboxwidth=\skip116
+\mdfframetitleboxtotalwidth=\skip117
+\mdfframetitleboxheight=\skip118
+\mdfframetitleboxdepth=\skip119
+\mdfframetitleboxtotalheight=\skip120
+\mdffootnoteboxwidth=\skip121
+\mdffootnoteboxtotalwidth=\skip122
+\mdffootnoteboxheight=\skip123
+\mdffootnoteboxdepth=\skip124
+\mdffootnoteboxtotalheight=\skip125
+\mdftotallinewidth=\skip126
+\mdfboundingboxwidth=\skip127
+\mdfboundingboxtotalwidth=\skip128
+\mdfboundingboxheight=\skip129
+\mdfboundingboxdepth=\skip130
+\mdfboundingboxtotalheight=\skip131
+\mdf@freevspace@length=\skip132
+\mdf@horizontalwidthofbox@length=\skip133
+\mdf@verticalmarginwhole@length=\skip134
+\mdf@horizontalspaceofbox=\skip135
+\mdfsubtitleheight=\skip136
+\mdfsubsubtitleheight=\skip137
+\c@mdfcountframes=\count344
+
+****** mdframed patching \endmdf@trivlist
+
+****** -- success******
+
+\mdf@envdepth=\count345
+\c@mdf@env@i=\count346
+\c@mdf@env@ii=\count347
+\c@mdf@zref@counter=\count348
+Package zref Info: New property: mdf@pagevalue on input line 895.
+)
+(/usr/local/texlive/2026/texmf-dist/tex/latex/listings/listings.sty
+\lst@mode=\count349
+\lst@gtempboxa=\box72
+\lst@token=\toks39
+\lst@length=\count350
+\lst@currlwidth=\dimen300
+\lst@column=\count351
+\lst@pos=\count352
+\lst@lostspace=\dimen301
+\lst@width=\dimen302
+\lst@newlines=\count353
+\lst@lineno=\count354
+\lst@maxwidth=\dimen303
+
+(/usr/local/texlive/2026/texmf-dist/tex/latex/listings/lstpatch.sty
+File: lstpatch.sty 2025/11/14 1.11b (Carsten Heinz)
+)
+(/usr/local/texlive/2026/texmf-dist/tex/latex/listings/lstmisc.sty
+File: lstmisc.sty 2025/11/14 1.11b (Carsten Heinz)
+\c@lstnumber=\count355
+\lst@skipnumbers=\count356
+\lst@framebox=\box73
+)
+(/usr/local/texlive/2026/texmf-dist/tex/latex/listings/listings.cfg
+File: listings.cfg 2025/11/14 1.11b listings configuration
+))
+Package: listings 2025/11/14 1.11b (Carsten Heinz)
+
+==> First Aid for listings.sty no longer applied!
+    Expected:
+        2024/09/23 1.10c (Carsten Heinz)
+    but found:
+        2025/11/14 1.11b (Carsten Heinz)
+    so I'm assuming it got fixed.
+(/usr/local/texlive/2026/texmf-dist/tex/latex/lstaddons/lstautogobble.sty
+Package: lstautogobble 2012/05/03 v0.1 Implements 'autogobble' option for 'list
+ings'
+\lstag@spacecount=\count357
+)
+(/usr/local/texlive/2026/texmf-dist/tex/latex/minted/minted.sty
+Package: minted 2025/05/14 v3.7.0 Yet another Pygments shim for LaTeX
+
+(/usr/local/texlive/2026/texmf-dist/tex/generic/catchfile/catchfile.sty
+Package: catchfile 2019/12/09 v1.8 Catch the contents of a file (HO)
+)
+(/usr/local/texlive/2026/texmf-dist/tex/latex/fvextra/fvextra.sty
+Package: fvextra 2026/02/25 v1.14.0 fvextra - extensions and patches for fancyv
+rb
+
+(/usr/local/texlive/2026/texmf-dist/tex/latex/fancyvrb/fancyvrb.sty
+Package: fancyvrb 2025/07/28 4.6 verbatim text (tvz,hv)
+\FV@CodeLineNo=\count358
+\FV@InFile=\read4
+\FV@TabBox=\box74
+\c@FancyVerbLine=\count359
+\FV@StepNumber=\count360
+\FV@OutFile=\write4
+)
+(/usr/local/texlive/2026/texmf-dist/tex/latex/upquote/upquote.sty
+Package: upquote 2012/04/19 v1.3 upright-quote and grave-accent glyphs in verba
+tim
+
+(/usr/local/texlive/2026/texmf-dist/tex/latex/base/textcomp.sty
+Package: textcomp 2024/04/24 v2.1b Standard LaTeX package
+))
+(/usr/local/texlive/2026/texmf-dist/tex/latex/lineno/lineno.sty
+Package: lineno 2026/02/16 line numbers on paragraphs v5.7
+\linenopenalty=\count361
+\output=\toks40
+\linenoprevgraf=\count362
+\linenumbersep=\dimen304
+\linenumberwidth=\dimen305
+\c@linenumber=\count363
+\c@pagewiselinenumber=\count364
+\c@LN@truepage=\count365
+\c@internallinenumber=\count366
+\c@internallinenumbers=\count367
+\quotelinenumbersep=\dimen306
+\bframerule=\dimen307
+\bframesep=\dimen308
+\bframebox=\box75
+\@LN@amsmath@ams@eqpen=\count368
+)
+\c@FancyVerbWriteLine=\count369
+\c@FancyVerbBufferLine=\count370
+\c@FV@TrueTabGroupLevel=\count371
+\c@FV@TrueTabCounter=\count372
+\FV@TabBox@Group=\box76
+\FV@bgcolorstructbox=\box77
+\FV@TmpLength=\skip138
+\c@FV@HighlightLinesStart=\count373
+\c@FV@HighlightLinesStop=\count374
+\FV@LoopCount=\count375
+\FV@NCharsBox=\box78
+\FV@BreakIndent=\dimen309
+\FV@BreakIndentNChars=\count376
+\FV@BreakSymbolSepLeft=\dimen310
+\FV@BreakSymbolSepLeftNChars=\count377
+\FV@BreakSymbolSepRight=\dimen311
+\FV@BreakSymbolSepRightNChars=\count378
+\FV@BreakSymbolIndentLeft=\dimen312
+\FV@BreakSymbolIndentLeftNChars=\count379
+\FV@BreakSymbolIndentRight=\dimen313
+\FV@BreakSymbolIndentRightNChars=\count380
+\c@FancyVerbLineBreakLast=\count381
+\FV@LineBox=\box79
+\FV@LineIndentBox=\box80
+\c@FV@BreakBufferDepth=\count382
+\FV@LineWidth=\dimen314
+)
+(/usr/local/texlive/2026/texmf-dist/tex/latex/latex2pydata/latex2pydata.sty
+Package: latex2pydata 2026/02/25 v0.7.0 latex2pydata - write data to file in Py
+thon literal format
+)
+(/usr/local/texlive/2026/texmf-dist/tex/latex/pgfopts/pgfopts.sty
+Package: pgfopts 2014/07/10 v2.1a LaTeX package options with pgfkeys
+\pgfopts@list@add@a@toks=\toks41
+\pgfopts@list@add@b@toks=\toks42
+)
+(/usr/local/texlive/2026/texmf-dist/tex/latex/tools/shellesc.sty
+Package: shellesc 2023/07/08 v1.0d unified shell escape interface for LaTeX
+Package shellesc Info: Restricted shell escape enabled on input line 77.
+)
+
+Package minted Warning: Package option "final" no longer has any effect with mi
+nted v3+ on input line 282.
+
+(/usr/local/texlive/2026/texmf-dist/tex/latex/float/float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count383
+\float@exts=\toks43
+\float@box=\box81
+\@float@everytoks=\toks44
+\@floatcapt=\box82
+)
+\c@minted@FancyVerbLineTemp=\count384
+\@float@every@listing=\toks45
+\c@listing=\count385
+)
+(/usr/local/texlive/2026/texmf-dist/tex/latex/tools/verbatim.sty
+Package: verbatim 2024-01-22 v1.5x LaTeX2e package for verbatim enhancements
+\every@verbatim=\toks46
+\verbatim@line=\toks47
+\verbatim@in@stream=\read5
+))
+(/usr/local/texlive/2026/texmf-dist/tex/latex/titlesec/titlesec.sty
+Package: titlesec 2025/01/04 v2.17 Sectioning titles
+\ttl@box=\box83
+\beforetitleunit=\skip139
+\aftertitleunit=\skip140
+\ttl@plus=\dimen315
+\ttl@minus=\dimen316
+\ttl@toksa=\toks48
+\titlewidth=\dimen317
+\titlewidthlast=\dimen318
+\titlewidthfirst=\dimen319
+)
+(/usr/local/texlive/2026/texmf-dist/tex/latex/algorithms/algorithm.sty
+Invalid UTF-8 byte or sequence at line 11 replaced by U+FFFD.
+Package: algorithm 2009/08/24 v0.1 Document Style `algorithm' - floating enviro
+nment
+\@float@every@algorithm=\toks49
+\c@algorithm=\count386
+)
+(/usr/local/texlive/2026/texmf-dist/tex/latex/algorithmicx/algpseudocode.sty
+Package: algpseudocode 
+
+(/usr/local/texlive/2026/texmf-dist/tex/latex/algorithmicx/algorithmicx.sty
+Package: algorithmicx 2005/04/27 v1.2 Algorithmicx
+
+Document Style algorithmicx 1.2 - a greatly improved `algorithmic' style
+\c@ALG@line=\count387
+\c@ALG@rem=\count388
+\c@ALG@nested=\count389
+\ALG@tlm=\skip141
+\ALG@thistlm=\skip142
+\c@ALG@Lnr=\count390
+\c@ALG@blocknr=\count391
+\c@ALG@storecount=\count392
+\c@ALG@tmpcounter=\count393
+\ALG@tmplength=\skip143
+)
+Document Style - pseudocode environments for use with the `algorithmicx' style
+)
+(/usr/local/texlive/2026/texmf-dist/tex/generic/pgf/libraries/pgflibraryarrows.
+meta.code.tex
+File: pgflibraryarrows.meta.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+\pgfarrowinset=\dimen320
+\pgfarrowlength=\dimen321
+\pgfarrowwidth=\dimen322
+\pgfarrowlinewidth=\dimen323
+)
+(/usr/local/texlive/2026/texmf-dist/tex/generic/pgf/frontendlayer/tikz/librarie
+s/tikzlibrarymatrix.code.tex
+File: tikzlibrarymatrix.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+)
+(/usr/local/texlive/2026/texmf-dist/tex/generic/pgf/frontendlayer/tikz/librarie
+s/tikzlibrarypositioning.code.tex
+File: tikzlibrarypositioning.code.tex 2025-08-29 v3.1.11a (3.1.11a)
+)
+(/usr/local/texlive/2026/texmf-dist/tex/latex/caption/subcaption.sty
+Package: subcaption 2023/07/28 v1.6b Sub-captions (AR)
+Package caption Info: New subtype `subfigure' on input line 238.
+\c@subfigure=\count394
+Package caption Info: New subtype `subtable' on input line 238.
+\c@subtable=\count395
+)
+(/usr/local/texlive/2026/texmf-dist/tex/latex/xurl/xurl.sty
+Package: xurl 2022/01/09 v 0.10 modify URL breaks
+)
+(/usr/local/texlive/2026/texmf-dist/tex/latex/gensymb/gensymb.sty
+Package: gensymb 2022/10/17 v1.0.2 (KJH)
+)
+(/usr/local/texlive/2026/texmf-dist/tex/latex/tools/array.sty
+Package: array 2025/09/25 v2.6n Tabular extension package (FMi)
+\col@sep=\dimen324
+\ar@mcellbox=\box84
+\extrarowheight=\dimen325
+\NC@list=\toks50
+\extratabsurround=\skip144
+\backup@length=\skip145
+\ar@cellbox=\box85
+)
+(/usr/local/texlive/2026/texmf-dist/tex/latex/tools/longtable.sty
+Package: longtable 2025-10-13 v4.24 Multi-page Table package (DPC)
+\LTleft=\skip146
+\LTright=\skip147
+\LTpre=\skip148
+\LTpost=\skip149
+\LTchunksize=\count396
+\LTcapwidth=\dimen326
+\LT@head=\box86
+\LT@firsthead=\box87
+\LT@foot=\box88
+\LT@lastfoot=\box89
+\LT@gbox=\box90
+\LT@cols=\count397
+\LT@rows=\count398
+\c@LT@tables=\count399
+\c@LT@chunks=\count400
+\LT@p@ftn=\toks51
+)
+(/usr/local/texlive/2026/texmf-dist/tex/latex/tools/multicol.sty
+Package: multicol 2025/10/21 v2.0b multicolumn formatting (FMi)
+\c@tracingmulticols=\count401
+\mult@box=\box91
+\multicol@leftmargin=\dimen327
+\c@unbalance=\count402
+\c@collectmore=\count403
+\doublecol@number=\count404
+\multicoltolerance=\count405
+\multicolpretolerance=\count406
+\full@width=\dimen328
+\page@free=\dimen329
+\premulticols=\dimen330
+\postmulticols=\dimen331
+\multicolsep=\skip150
+\multicolbaselineskip=\skip151
+\partial@page=\box92
+\last@line=\box93
+\mc@boxedresult=\box94
+\maxbalancingoverflow=\dimen332
+\mult@rightbox=\box95
+\mult@grightbox=\box96
+\mult@firstbox=\box97
+\mult@gfirstbox=\box98
+\@tempa=\box99
+\@tempa=\box100
+\@tempa=\box101
+\@tempa=\box102
+\@tempa=\box103
+\@tempa=\box104
+\@tempa=\box105
+\@tempa=\box106
+\@tempa=\box107
+\@tempa=\box108
+\@tempa=\box109
+\@tempa=\box110
+\@tempa=\box111
+\@tempa=\box112
+\@tempa=\box113
+\@tempa=\box114
+\@tempa=\box115
+\@tempa=\box116
+\@tempa=\box117
+\@tempa=\box118
+\@tempa=\box119
+\@tempa=\box120
+\@tempa=\box121
+\@tempa=\box122
+\@tempa=\box123
+\@tempa=\box124
+\@tempa=\box125
+\@tempa=\box126
+\@tempa=\box127
+\@tempa=\box128
+\@tempa=\box129
+\@tempa=\box130
+\@tempa=\box131
+\@tempa=\box132
+\@tempa=\box133
+\@tempa=\box134
+\c@minrows=\count407
+\c@columnbadness=\count408
+\c@finalcolumnbadness=\count409
+\last@try=\dimen333
+\multicolovershoot=\dimen334
+\multicolundershoot=\dimen335
+\mult@nat@firstbox=\box135
+\colbreak@box=\box136
+\mc@col@check@num=\count410
+\g__mc_curr_col_int=\count411
+)
+(/usr/local/texlive/2026/texmf-dist/tex/latex/multirow/multirow.sty
+Package: multirow 2024/11/12 v2.9 Span multiple rows of a table
+\multirow@colwidth=\skip152
+\multirow@cntb=\count412
+\multirow@dima=\skip153
+\bigstrutjot=\dimen336
+)
+(/usr/local/texlive/2026/texmf-dist/tex/latex/siunitx/siunitx.sty
+Package: siunitx 2025-07-09 v3.4.14 A comprehensive (SI) units package
+\l__siunitx_number_uncert_offset_int=\count413
+\l__siunitx_number_exponent_fixed_int=\count414
+\l__siunitx_number_min_decimal_int=\count415
+\l__siunitx_number_min_integer_int=\count416
+\l__siunitx_number_round_precision_int=\count417
+\l__siunitx_number_lower_threshold_int=\count418
+\l__siunitx_number_upper_threshold_int=\count419
+\l__siunitx_number_group_first_int=\count420
+\l__siunitx_number_group_size_int=\count421
+\l__siunitx_number_group_minimum_int=\count422
+\l__siunitx_angle_tmp_dim=\dimen337
+\l__siunitx_angle_marker_box=\box137
+\l__siunitx_angle_unit_box=\box138
+\l__siunitx_compound_count_int=\count423
+
+(/usr/local/texlive/2026/texmf-dist/tex/latex/translations/translations.sty
+Package: translations 2022/02/05 v1.12 internationalization of LaTeX2e packages
+ (CN)
+)
+\l__siunitx_table_tmp_box=\box139
+\l__siunitx_table_tmp_dim=\dimen338
+\l__siunitx_table_column_width_dim=\dimen339
+\l__siunitx_table_integer_box=\box140
+\l__siunitx_table_decimal_box=\box141
+\l__siunitx_table_uncert_box=\box142
+\l__siunitx_table_before_box=\box143
+\l__siunitx_table_after_box=\box144
+\l__siunitx_table_before_dim=\dimen340
+\l__siunitx_table_carry_dim=\dimen341
+\l__siunitx_unit_tmp_int=\count424
+\l__siunitx_unit_position_int=\count425
+\l__siunitx_unit_total_int=\count426
+)
+(/usr/local/texlive/2026/texmf-dist/tex/latex/tools/tabularx.sty
+Package: tabularx 2023/12/11 v2.12a `tabularx' package (DPC)
+\TX@col@width=\dimen342
+\TX@old@table=\dimen343
+\TX@old@col=\dimen344
+\TX@target=\dimen345
+\TX@delta=\dimen346
+\TX@cols=\count427
+\TX@ftn=\toks52
+)
+(/usr/local/texlive/2026/texmf-dist/tex/latex/enumitem/enumitem.sty
+Package: enumitem 2025/02/06 v3.11 Customized lists
+\labelindent=\skip154
+\enit@outerparindent=\dimen347
+\enit@toks=\toks53
+\enit@inbox=\box145
+\enit@count@id=\count428
+\enitdp@description=\count429
+)
+(/usr/local/texlive/2026/texmf-dist/tex/latex/adjustbox/adjustbox.sty
+Package: adjustbox 2025/02/26 v1.3c Adjusting TeX boxes (trim, clip, ...)
+
+(/usr/local/texlive/2026/texmf-dist/tex/latex/xkeyval/xkeyval.sty
+Package: xkeyval 2025/11/04 v2.10 package option processing (HA)
+
+(/usr/local/texlive/2026/texmf-dist/tex/generic/xkeyval/xkeyval.tex
+(/usr/local/texlive/2026/texmf-dist/tex/generic/xkeyval/xkvutils.tex
+\XKV@toks=\toks54
+\XKV@tempa@toks=\toks55
+\XKV@tempb@toks=\toks56
+)
+\XKV@depth=\count430
+File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
+))
+(/usr/local/texlive/2026/texmf-dist/tex/latex/adjustbox/adjcalc.sty
+Package: adjcalc 2012/05/16 v1.1 Provides advanced setlength with multiple back
+-ends (calc, etex, pgfmath)
+)
+(/usr/local/texlive/2026/texmf-dist/tex/latex/adjustbox/trimclip.sty
+Package: trimclip 2025/02/21 v1.2a Trim and clip general TeX material
+
+(/usr/local/texlive/2026/texmf-dist/tex/latex/collectbox/collectbox.sty
+Package: collectbox 2022/10/17 v0.4c Collect macro arguments as boxes
+\collectedbox=\box146
+)
+\tc@llx=\dimen348
+\tc@lly=\dimen349
+\tc@urx=\dimen350
+\tc@ury=\dimen351
+Package trimclip Info: Using driver 'tc-xetex.def'.
+
+(/usr/local/texlive/2026/texmf-dist/tex/latex/adjustbox/tc-xetex.def
+File: tc-xetex.def 2019/01/04 v2.2 Clipping driver for xetex
+))
+\adjbox@Width=\dimen352
+\adjbox@Height=\dimen353
+\adjbox@Depth=\dimen354
+\adjbox@Totalheight=\dimen355
+\adjbox@pwidth=\dimen356
+\adjbox@pheight=\dimen357
+\adjbox@pdepth=\dimen358
+\adjbox@ptotalheight=\dimen359
+
+(/usr/local/texlive/2026/texmf-dist/tex/latex/ifoddpage/ifoddpage.sty
+Package: ifoddpage 2022/10/18 v1.2 Conditionals for odd/even page detection
+\c@checkoddpage=\count431
+)
+(/usr/local/texlive/2026/texmf-dist/tex/latex/varwidth/varwidth.sty
+Package: varwidth 2009/03/30 ver 0.92;  Variable-width minipages
+\@vwid@box=\box147
+\sift@deathcycles=\count432
+\@vwid@loff=\dimen360
+\@vwid@roff=\dimen361
+)
+==> First Aid for varwidth.sty applied!
+) (/usr/local/texlive/2026/texmf-dist/tex/latex/cleveref/cleveref.sty
+Package: cleveref 2018/03/27 v0.21.4 Intelligent cross-referencing
+Package cleveref Info: `hyperref' support loaded on input line 2370.
+LaTeX Info: Redefining \cref on input line 2370.
+LaTeX Info: Redefining \Cref on input line 2370.
+LaTeX Info: Redefining \crefrange on input line 2370.
+LaTeX Info: Redefining \Crefrange on input line 2370.
+LaTeX Info: Redefining \cpageref on input line 2370.
+LaTeX Info: Redefining \Cpageref on input line 2370.
+LaTeX Info: Redefining \cpagerefrange on input line 2370.
+LaTeX Info: Redefining \Cpagerefrange on input line 2370.
+LaTeX Info: Redefining \labelcref on input line 2370.
+LaTeX Info: Redefining \labelcpageref on input line 2370.
+Package cleveref Info: `algorithmicx' support loaded on input line 3120.
+Package cleveref Info: `listings' support loaded on input line 3131.
+Package cleveref Info: include cross-reference names in hyperlinks on input lin
+e 7836.
+Package cleveref Info: include cross-reference names in hyperlinks on input lin
+e 7852.
+)
+==> First Aid for cleveref.sty applied!
+(/usr/local/texlive/2026/texmf-dist/tex/latex/fontspec/fontspec.sty
+Package: fontspec 2025/09/29 v2.9g Font selection for XeLaTeX and LuaLaTeX
+
+(/usr/local/texlive/2026/texmf-dist/tex/latex/fontspec/fontspec-xetex.sty
+Package: fontspec-xetex 2025/09/29 v2.9g Font selection for XeLaTeX and LuaLaTe
+X
+\l__fontspec_script_int=\count433
+\l__fontspec_language_int=\count434
+\l__fontspec_strnum_int=\count435
+\l__fontspec_tmp_int=\count436
+\l__fontspec_tmpa_int=\count437
+\l__fontspec_tmpb_int=\count438
+\l__fontspec_tmpc_int=\count439
+\l__fontspec_em_int=\count440
+\l__fontspec_emdef_int=\count441
+\l__fontspec_strong_int=\count442
+\l__fontspec_strongdef_int=\count443
+\l__fontspec_tmpa_dim=\dimen362
+\l__fontspec_tmpb_dim=\dimen363
+\l__fontspec_tmpc_dim=\dimen364
+
+(/usr/local/texlive/2026/texmf-dist/tex/latex/base/fontenc.sty
+Package: fontenc 2025/07/18 v2.1d Standard LaTeX package
+)
+(/usr/local/texlive/2026/texmf-dist/tex/latex/fontspec/fontspec.cfg)))
+(/usr/local/texlive/2026/texmf-dist/tex/latex/polyglossia/polyglossia.sty
+Package: polyglossia 2025/12/01 v2.9 Modern multilingual typesetting with XeLaT
+eX and LuaLaTeX
+
+
+Package polyglossia Warning: You have loaded both babel and polyglossia.
+(polyglossia)                The two packages are mutually exclusive!
+
+\l_xpg_alias_keyvals_int=\count444
+(/usr/local/texlive/2026/texmf-dist/tex/latex/polyglossia/gloss-latex.ldf
+File: gloss-latex.ldf polyglossia: module for default language
+))
+(/usr/local/texlive/2026/texmf-dist/tex/latex/polyglossia/gloss-vietnamese.ldf
+File: gloss-vietnamese.ldf polyglossia: module for Vietnamese
+)
+
+Package polyglossia Info: Default language is vietnamese
+
+
+Package fontspec Info: 
+(fontspec)             Font family 'TimesNewRoman(0)' created for font 'Times
+(fontspec)             New Roman' with options [Ligatures=TeX].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.: <->"Times New
+(fontspec)             Roman/OT:script=latn;language=dflt;mapping=tex-text;"
+(fontspec)             - 'bold' (b/n) with NFSS spec.: <->"Times New
+(fontspec)             Roman/B/OT:script=latn;language=dflt;mapping=tex-text;"
+(fontspec)             - 'italic' (m/it) with NFSS spec.: <->"Times New
+(fontspec)             Roman/I/OT:script=latn;language=dflt;mapping=tex-text;"
+(fontspec)             - 'bold italic' (b/it) with NFSS spec.: <->"Times New
+(fontspec)             Roman/BI/OT:script=latn;language=dflt;mapping=tex-text;"
+
+
+(/usr/local/texlive/2026/texmf-dist/tex/latex/mwe/mwe.sty
+Package: mwe 2018/03/30 v0.5 Package to support minimal working examples (MWE)
+
+(/usr/local/texlive/2026/texmf-dist/tex/latex/lipsum/lipsum.sty
+(/usr/local/texlive/2026/texmf-dist/tex/latex/l3packages/l3keys2e/l3keys2e.sty
+Package: l3keys2e 2025-10-09 LaTeX2e option processing using LaTeX3 keys
+)
+Package: lipsum 2021-09-20 v2.7 150 paragraphs of Lorem Ipsum dummy text
+\g__lipsum_par_int=\count445
+\l__lipsum_a_int=\count446
+\l__lipsum_b_int=\count447
+(/usr/local/texlive/2026/texmf-dist/tex/latex/lipsum/lipsum.ltd.tex))
+(/usr/local/texlive/2026/texmf-dist/tex/latex/blindtext/blindtext.sty
+Package: blindtext 2012/01/06 V2.0 blindtext-Package
+
+(/usr/local/texlive/2026/texmf-dist/tex/latex/tools/xspace.sty
+Package: xspace 2014/10/28 v1.13 Space after command names (DPC,MH)
+)
+\c@blindtext=\count448
+\c@Blindtext=\count449
+\c@blind@countparstart=\count450
+\blind@countxx=\count451
+\blindtext@numBlindtext=\count452
+\blind@countyy=\count453
+\c@blindlist=\count454
+\c@blindlistlevel=\count455
+\c@blindlist@level=\count456
+\blind@listitem=\count457
+\c@blind@listcount=\count458
+\c@blind@levelcount=\count459
+\blind@mathformula=\count460
+\blind@Mathformula=\count461
+\c@blind@randomcount=\count462
+\c@blind@randommax=\count463
+\c@blind@pangramcount=\count464
+\c@blind@pangrammax=\count465
+)) (./report.aux)
+\openout1 = `report.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 85.
+LaTeX Font Info:    ... okay on input line 85.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 85.
+LaTeX Font Info:    ... okay on input line 85.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 85.
+LaTeX Font Info:    ... okay on input line 85.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 85.
+LaTeX Font Info:    ... okay on input line 85.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 85.
+LaTeX Font Info:    ... okay on input line 85.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 85.
+LaTeX Font Info:    ... okay on input line 85.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 85.
+LaTeX Font Info:    ... okay on input line 85.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 85.
+LaTeX Font Info:    ... okay on input line 85.
+LaTeX Font Info:    Checking defaults for T5/cmr/m/n on input line 85.
+LaTeX Font Info:    Trying to load font information for T5+cmr on input line 85
+.
+ (/usr/local/texlive/2026/texmf-dist/tex/latex/vntex/t5cmr.fd
+File: t5cmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    ... okay on input line 85.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 85.
+LaTeX Font Info:    ... okay on input line 85.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 85.
+LaTeX Font Info:    ... okay on input line 85.
+
+*geometry* driver: auto-detecting
+*geometry* detected driver: xetex
+*geometry* verbose mode - [ preamble ] result:
+* driver: xetex
+* paper: a4paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: includehead includefoot twoside 
+* h-part:(L,W,R)=(71.13188pt, 455.24411pt, 71.13188pt)
+* v-part:(T,H,B)=(56.9055pt, 731.23584pt, 56.9055pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=455.24411pt
+* \textheight=641.23584pt
+* \oddsidemargin=-1.1381pt
+* \evensidemargin=-1.1381pt
+* \topmargin=-15.36449pt
+* \headheight=35.0pt
+* \headsep=25.0pt
+* \topskip=12.0pt
+* \footskip=30.0pt
+* \marginparwidth=85.0pt
+* \marginparsep=10.0pt
+* \columnsep=10.0pt
+* \skip\footins=10.8pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidetrue
+* \@mparswitchtrue
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: float package is loaded.
+Package caption Info: hyperref package is loaded.
+Package caption Info: listings package is loaded.
+Package caption Info: longtable package is loaded.
+(/usr/local/texlive/2026/texmf-dist/tex/latex/caption/ltcaption.sty
+Package: ltcaption 2021/01/08 v1.4c longtable captions (AR)
+)
+Package caption Info: End \AtBeginDocument code.
+Package hyperref Info: Link coloring ON on input line 85.
+
+(./report.out) (./report.out)
+\@outlinefile=\write5
+\openout5 = `report.out'.
+
+\c@lstlisting=\count466
+\symgns@font=\mathgroup6
+LaTeX Font Info:    Overwriting symbol font `gns@font' in version `bold'
+(Font)                  TS1/TimesNewRoman(0)/m/n --> TS1/TimesNewRoman(0)/b/n o
+n input line 85.
+Package gensymb Info: Math companion symbols declared on input line 85.
+LaTeX Info: Redefining \degree on input line 85.
+LaTeX Info: Redefining \celsius on input line 85.
+Package gensymb Info: Using text companion symbols for \degree, \celsius and \p
+erthousand on input line 85.
+LaTeX Info: Redefining \ohm on input line 85.
+Package gensymb Info: Using \textohm for \ohm on input line 85.
+Package gensymb Info: Using \textmu for \micro on input line 85.
+Package translations Info: no dictionary file `translations-basic-dictionary-vi
+etnamese.trsl' found. on input line 85.
+
+Package fontspec Info: 
+(fontspec)             Adjusting the maths setup (use [no-math] to avoid
+(fontspec)             this).
+
+\symlegacymaths=\mathgroup7
+LaTeX Font Info:    Overwriting symbol font `legacymaths' in version `bold'
+(Font)                  OT1/cmr/m/n --> OT1/cmr/bx/n on input line 85.
+LaTeX Font Info:    Redeclaring math accent \acute on input line 85.
+LaTeX Font Info:    Redeclaring math accent \grave on input line 85.
+LaTeX Font Info:    Redeclaring math accent \ddot on input line 85.
+LaTeX Font Info:    Redeclaring math accent \tilde on input line 85.
+LaTeX Font Info:    Redeclaring math accent \bar on input line 85.
+LaTeX Font Info:    Redeclaring math accent \breve on input line 85.
+LaTeX Font Info:    Redeclaring math accent \check on input line 85.
+LaTeX Font Info:    Redeclaring math accent \hat on input line 85.
+LaTeX Font Info:    Redeclaring math accent \dot on input line 85.
+LaTeX Font Info:    Redeclaring math accent \mathring on input line 85.
+LaTeX Font Info:    Redeclaring math symbol \Gamma on input line 85.
+LaTeX Font Info:    Redeclaring math symbol \Delta on input line 85.
+LaTeX Font Info:    Redeclaring math symbol \Theta on input line 85.
+LaTeX Font Info:    Redeclaring math symbol \Lambda on input line 85.
+LaTeX Font Info:    Redeclaring math symbol \Xi on input line 85.
+LaTeX Font Info:    Redeclaring math symbol \Pi on input line 85.
+LaTeX Font Info:    Redeclaring math symbol \Sigma on input line 85.
+LaTeX Font Info:    Redeclaring math symbol \Upsilon on input line 85.
+LaTeX Font Info:    Redeclaring math symbol \Phi on input line 85.
+LaTeX Font Info:    Redeclaring math symbol \Psi on input line 85.
+LaTeX Font Info:    Redeclaring math symbol \Omega on input line 85.
+LaTeX Font Info:    Redeclaring math symbol \mathdollar on input line 85.
+LaTeX Font Info:    Redeclaring symbol font `operators' on input line 85.
+LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
+(Font)              `operators' in the math version `normal' on input line 85.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  OT1/cmr/m/n --> TU/TimesNewRoman(0)/m/n on input line 8
+5.
+LaTeX Font Info:    Encoding `OT1' has changed to `TU' for symbol font
+(Font)              `operators' in the math version `bold' on input line 85.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  OT1/cmr/bx/n --> TU/TimesNewRoman(0)/m/n on input line 
+85.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  TU/TimesNewRoman(0)/m/n --> TU/TimesNewRoman(0)/m/n on 
+input line 85.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
+(Font)                  OT1/cmr/m/it --> TU/TimesNewRoman(0)/m/it on input line
+ 85.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
+(Font)                  OT1/cmr/bx/n --> TU/TimesNewRoman(0)/b/n on input line 
+85.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
+(Font)                  OT1/cmss/m/n --> TU/lmss/m/n on input line 85.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
+(Font)                  OT1/cmtt/m/n --> TU/lmtt/m/n on input line 85.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  TU/TimesNewRoman(0)/m/n --> TU/TimesNewRoman(0)/b/n on 
+input line 85.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
+(Font)                  OT1/cmr/bx/it --> TU/TimesNewRoman(0)/b/it on input lin
+e 85.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
+(Font)                  OT1/cmss/bx/n --> TU/lmss/b/n on input line 85.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
+(Font)                  OT1/cmtt/m/n --> TU/lmtt/b/n on input line 85.
+File: graphics/hcmut.png Graphic file (type bmp)
+<graphics/hcmut.png>
+LaTeX Font Info:    Trying to load font information for U+msa on input line 86.
+
+
+(/usr/local/texlive/2026/texmf-dist/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Trying to load font information for U+msb on input line 86.
+
+
+(/usr/local/texlive/2026/texmf-dist/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+LaTeX Font Info:    Trying to load font information for TS1+TimesNewRoman(0) on
+ input line 86.
+LaTeX Font Info:    No file TS1TimesNewRoman(0).fd. on input line 86.
+
+
+LaTeX Font Warning: Font shape `TS1/TimesNewRoman(0)/m/n' undefined
+(Font)              using `TS1/cmr/m/n' instead on input line 86.
+
+
+Overfull \hbox (12.00002pt too wide) in paragraph at lines 86--86
+ [][] 
+ []
+
+[1
+
+] (./report.toc
+File: graphics/hcmut.png Graphic file (type bmp)
+<graphics/hcmut.png>
+ [2
+
+])
+\tf@toc=\write6
+\openout6 = `report.toc'.
+
+ (./report.lof)
+\tf@lof=\write7
+\openout7 = `report.lof'.
+
+ (./report.lot)
+\tf@lot=\write8
+\openout8 = `report.lot'.
+
+File: graphics/hcmut.png Graphic file (type bmp)
+<graphics/hcmut.png>
+ [3]
+(./content/overview.tex
+File: graphics/hcmut.png Graphic file (type bmp)
+<graphics/hcmut.png>
+ [4
+
+]
+File: graphics/hcmut.png Graphic file (type bmp)
+<graphics/hcmut.png>
+ [5]) (./content/characteristics.tex
+File: graphics/hcmut.png Graphic file (type bmp)
+<graphics/hcmut.png>
+ [6]
+File: graphics/hcmut.png Graphic file (type bmp)
+<graphics/hcmut.png>
+ [7]
+File: graphics/hcmut.png Graphic file (type bmp)
+<graphics/hcmut.png>
+
+[8]
+File: graphics/hcmut.png Graphic file (type bmp)
+<graphics/hcmut.png>
+ [9]
+File: graphics/hcmut.png Graphic file (type bmp)
+<graphics/hcmut.png>
+ [10]) (./content/pattern_tradeoff.tex
+(./content/architecture_styles/layered.tex
+File: graphics/LayeredArchitecture.drawio.png Graphic file (type bmp)
+<graphics/LayeredArchitecture.drawio.png>
+File: graphics/hcmut.png Graphic file (type bmp)
+<graphics/hcmut.png>
+ [11]
+File: graphics/hcmut.png Graphic file (type bmp)
+<graphics/hcmut.png>
+ [12]
+Underfull \hbox (badness 3009) in paragraph at lines 33--33
+[]|\TU/TimesNewRoman(0)/m/n/12 Đơn giản, Low entry barrier,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 35--35
+[]|\TU/TimesNewRoman(0)/b/n/12 Điều phối tài
+ []
+
+
+Underfull \hbox (badness 1931) in paragraph at lines 35--35
+[]|\TU/TimesNewRoman(0)/m/n/12 Hỗ trợ tốt cho giai đoạn tập
+ []
+
+
+Underfull \hbox (badness 1264) in paragraph at lines 35--35
+[]|\TU/TimesNewRoman(0)/m/n/12 Kém linh hoạt, phải mở rộng
+ []
+
+
+Underfull \hbox (badness 1297) in paragraph at lines 36--36
+\TU/TimesNewRoman(0)/m/n/12 hệ thống nội bộ quy mô nhỏ
+ []
+
+
+Underfull \hbox (badness 4595) in paragraph at lines 36--36
+\TU/TimesNewRoman(0)/m/n/12 được Latency khắt khe dưới
+ []
+
+
+Underfull \hbox (badness 1584) in paragraph at lines 37--37
+\TU/TimesNewRoman(0)/m/n/12 tính năng khi phát triển song
+ []
+
+File: graphics/hcmut.png Graphic file (type bmp)
+<graphics/hcmut.png>
+[13]) (./content/architecture_styles/microservices.tex
+File: graphics/MicroservicesArchitecture.drawio.png Graphic file (type bmp)
+<graphics/MicroservicesArchitecture.drawio.png>
+File: graphics/hcmut.png Graphic file (type bmp)
+<graphics/hcmut.png>
+ [14]
+File: graphics/hcmut.png Graphic file (type bmp)
+<graphics/hcmut.png>
+ [15]
+Underfull \hbox (badness 1057) in paragraph at lines 35--35
+\TU/TimesNewRoman(0)/m/n/12 Ingestion) mà không gây lãng
+ []
+
+
+Underfull \hbox (badness 3439) in paragraph at lines 36--36
+\TU/TimesNewRoman(0)/m/n/12 dịch vụ Analytics sập), ngăn
+ []
+
+
+Underfull \hbox (badness 3271) in paragraph at lines 36--36
+\TU/TimesNewRoman(0)/m/n/12 chặn hiện tượng sụp đổ dây
+ []
+
+
+Underfull \hbox (badness 1137) in paragraph at lines 36--36
+[]|\TU/TimesNewRoman(0)/m/n/12 Phải triển khai thêm các mẫu
+ []
+
+
+Underfull \hbox (badness 2418) in paragraph at lines 36--36
+\TU/TimesNewRoman(0)/m/n/12 tạp như Circuit Breaker hoặc
+ []
+
+
+Underfull \hbox (badness 3482) in paragraph at lines 37--37
+[]|\TU/TimesNewRoman(0)/b/n/12 Độ phức tạp vận
+ []
+
+
+Underfull \hbox (badness 1622) in paragraph at lines 37--37
+[]|\TU/TimesNewRoman(0)/m/n/12 Gia tăng đáng kể Operational
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 38--38
+[]|\TU/TimesNewRoman(0)/b/n/12 Hiệu năng &
+ []
+
+File: graphics/hcmut.png Graphic file (type bmp)
+<graphics/hcmut.png>
+[16]) (./content/architecture_styles/event_driven.tex
+File: graphics/hcmut.png Graphic file (type bmp)
+<graphics/hcmut.png>
+ [17]
+File: graphics/EDA Architecture.png Graphic file (type bmp)
+<graphics/EDA Architecture.png>
+File: graphics/hcmut.png Graphic file (type bmp)
+<graphics/hcmut.png>
+ [18]
+File: graphics/hcmut.png Graphic file (type bmp)
+<graphics/hcmut.png>
+ [19]
+Underfull \hbox (badness 10000) in paragraph at lines 46--47
+[]|\TU/TimesNewRoman(0)/m/n/12 Tính linh hoạt
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 54--55
+[]|\TU/TimesNewRoman(0)/m/n/12 Tính tách rời
+ []
+
+
+Underfull \hbox (badness 1635) in paragraph at lines 58--59
+[]|\TU/TimesNewRoman(0)/m/n/12 Tính nhất quán dữ
+ []
+
+
+Underfull \hbox (badness 4819) in paragraph at lines 64--64
+[]|\TU/TimesNewRoman(0)/m/n/12 Cần hệ thống monitoring và
+ []
+
+
+Overfull \hbox (9.14717pt too wide) in paragraph at lines 38--68
+ [][] 
+ []
+
+File: graphics/hcmut.png Graphic file (type bmp)
+<graphics/hcmut.png>
+[20]
+File: graphics/hcmut.png Graphic file (type bmp)
+<graphics/hcmut.png>
+ [21]) (./content/architecture_styles/serverless.tex
+File: graphics/serverless-architecture.png Graphic file (type bmp)
+<graphics/serverless-architecture.png>
+File: graphics/hcmut.png Graphic file (type bmp)
+<graphics/hcmut.png>
+ [22]
+File: graphics/hcmut.png Graphic file (type bmp)
+<graphics/hcmut.png>
+ [23]
+Overfull \hbox (9.35593pt too wide) in paragraph at lines 47--49
+\TU/lmtt/m/n/12 hoạt hàm Lambda $\OMS/cmsy/m/n/12 !$ \TU/lmtt/m/n/12 Lambda xử 
+lý, kiểm tra ngưỡng $\OMS/cmsy/m/n/12 !$ \TU/lmtt/m/n/12 Ghi log vào DynamoDB /
+ Bắn
+ []
+
+
+Overfull \hbox (32.32178pt too wide) in alignment at lines 56--63
+ [] [] [] [] 
+ []
+
+
+Overfull \hbox (32.32178pt too wide) in alignment at lines 63--68
+ [] [] [] [] 
+ []
+
+
+Overfull \hbox (32.32178pt too wide) in alignment at lines 68--71
+ [] [] [] [] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 74--75
+[]|\TU/TimesNewRoman(0)/b/n/12 Pay-as-you-go &
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 75--76
+[]|\TU/TimesNewRoman(0)/b/n/12 Sustained Cost
+ []
+
+
+Underfull \hbox (badness 2980) in paragraph at lines 76--77
+[]|\TU/TimesNewRoman(0)/m/n/12 Công tơ nước đọc 1
+ []
+
+
+Underfull \hbox (badness 2310) in paragraph at lines 76--77
+\TU/TimesNewRoman(0)/m/n/12 lần/ngày: chi phí gần
+ []
+
+
+Underfull \hbox (badness 1735) in paragraph at lines 76--77
+\TU/TimesNewRoman(0)/m/n/12 tục 1M sự kiện/ngày:
+ []
+
+
+Underfull \hbox (badness 3815) in paragraph at lines 76--77
+\TU/TimesNewRoman(0)/m/n/12 đắt hơn container 5–
+ []
+
+
+Underfull \hbox (badness 1264) in paragraph at lines 79--80
+\TU/TimesNewRoman(0)/m/n/12 với các hàm đã được
+ []
+
+
+Underfull \hbox (badness 1803) in paragraph at lines 79--80
+\TU/TimesNewRoman(0)/m/n/12 khởi động sẵn (warm
+ []
+
+
+Underfull \hbox (badness 6032) in paragraph at lines 80--81
+\TU/TimesNewRoman(0)/m/n/12 khi hàm ngưng hoạt
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 81--82
+\TU/TimesNewRoman(0)/m/n/12 (IIoT safety). Chấp
+ []
+
+
+Underfull \hbox (badness 5696) in paragraph at lines 81--82
+\TU/TimesNewRoman(0)/m/n/12 nhận được cho cảnh
+ []
+
+
+Underfull \hbox (badness 1590) in paragraph at lines 84--85
+\TU/TimesNewRoman(0)/m/n/12 DevOps patch OS, tự
+ []
+
+
+Underfull \hbox (badness 1596) in paragraph at lines 85--86
+[]|\TU/TimesNewRoman(0)/b/n/12 Vendor Lock-in: \TU/TimesNewRoman(0)/m/n/12 Phụ
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 85--86
+\TU/TimesNewRoman(0)/m/n/12 thái Cloud Provider.
+ []
+
+
+Underfull \hbox (badness 2582) in paragraph at lines 86--87
+[]|\TU/TimesNewRoman(0)/m/n/12 Startup 2 người chạy
+ []
+
+
+Underfull \hbox (badness 6510) in paragraph at lines 89--90
+[]|\TU/TimesNewRoman(0)/m/n/12 Tự động scale từ 0
+ []
+
+
+Underfull \hbox (badness 7685) in paragraph at lines 90--91
+[]|\TU/TimesNewRoman(0)/b/n/12 Concurrency Limits:
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 90--91
+\TU/TimesNewRoman(0)/m/n/12 AWS Lambda mặc
+ []
+
+
+Underfull \hbox (badness 2020) in paragraph at lines 90--91
+\TU/TimesNewRoman(0)/m/n/12 định 1,000 concurrent
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 90--91
+\TU/TimesNewRoman(0)/m/n/12 executions/region. Có
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 91--92
+[]|\TU/TimesNewRoman(0)/m/n/12 Workload IoT bình
+ []
+
+
+Underfull \hbox (badness 1259) in paragraph at lines 91--92
+\TU/TimesNewRoman(0)/m/n/12 thường. Toàn bộ fleet
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 94--95
+[]|\TU/TimesNewRoman(0)/m/n/12 Bắt buộc thiết kế
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 94--95
+\TU/TimesNewRoman(0)/b/n/12 Stateless\TU/TimesNewRoman(0)/m/n/12 , giúp phục
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 95--96
+[]|\TU/TimesNewRoman(0)/b/n/12 Phức tạp luồng
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 95--96
+\TU/TimesNewRoman(0)/b/n/12 Stateful: \TU/TimesNewRoman(0)/m/n/12 Theo dõi
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 95--96
+\TU/TimesNewRoman(0)/m/n/12 chuỗi sự kiện (VD:
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 95--96
+\TU/TimesNewRoman(0)/m/n/12 3 lần vượt ngưỡng
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 95--96
+\TU/TimesNewRoman(0)/m/n/12 liên tiếp) cần Step
+ []
+
+
+Underfull \hbox (badness 4266) in paragraph at lines 95--96
+\TU/TimesNewRoman(0)/m/n/12 Functions hoặc Redis
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 96--97
+[]|\TU/TimesNewRoman(0)/m/n/12 Theo dõi trạng
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 96--97
+\TU/TimesNewRoman(0)/m/n/12 thái thiết bị (alert
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 96--97
+\TU/TimesNewRoman(0)/m/n/12 đã gửi chưa?) cần
+ []
+
+
+Overfull \hbox (4.8296pt too wide) in paragraph at lines 96--97
+\TU/TimesNewRoman(0)/m/n/12 DynamoDB/ElastiCache
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 96--97
+\TU/TimesNewRoman(0)/m/n/12 bên ngoài $\OMS/cmsy/m/n/12 !$ \TU/TimesNewRoman(0)
+/m/n/12 thêm
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 101--102
+\TU/TimesNewRoman(0)/m/n/12 video transcoding.
+ []
+
+
+Underfull \hbox (badness 4726) in paragraph at lines 101--102
+\TU/TimesNewRoman(0)/m/n/12 Data enrichment nhẹ,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 104--105
+[]|\TU/TimesNewRoman(0)/m/n/12 Cloud tự động log
+ []
+
+
+Underfull \hbox (badness 2401) in paragraph at lines 104--105
+\TU/TimesNewRoman(0)/m/n/12 cho mỗi lần thực thi
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 105--106
+[]|\TU/TimesNewRoman(0)/b/n/12 Mê cung Debug:
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 105--106
+\TU/TimesNewRoman(0)/m/n/12 khó. Cần Distributed
+ []
+
+
+Overfull \hbox (32.32178pt too wide) in alignment at lines 71--108
+ [] [] [] [] 
+ []
+
+File: graphics/hcmut.png Graphic file (type bmp)
+<graphics/hcmut.png>
+[24]
+ignored: Infinite glue shrinkage found in box being split
+File: graphics/hcmut.png Graphic file (type bmp)
+<graphics/hcmut.png>
+ [25]
+Underfull \hbox (badness 2951) in paragraph at lines 158--158
+[]|\TU/TimesNewRoman(0)/b/n/12 Hậu quả khi vượt
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 158--158
+[]|\TU/TimesNewRoman(0)/m/n/12 Closed-loop control
+ []
+
+
+Underfull \hbox (badness 4647) in paragraph at lines 158--158
+[]|\TU/TimesNewRoman(0)/m/n/12 Cold Start (100ms–
+ []
+
+
+Underfull \hbox (badness 2134) in paragraph at lines 158--158
+\TU/TimesNewRoman(0)/m/n/12 toàn vật lý (Safety-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 158--158
+[]|\TU/TimesNewRoman(0)/m/n/12 Chuyển sang \TU/TimesNewRoman(0)/b/n/12 Edge
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 158--158
+\TU/TimesNewRoman(0)/b/n/12 Computing \TU/TimesNewRoman(0)/m/n/12 hoặc
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 158--158
+\TU/TimesNewRoman(0)/m/n/12 container chạy
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 158--158
+[]|$\OML/cmm/m/it/12 >$ \TU/TimesNewRoman(0)/m/n/12 1M
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 158--158
+\TU/TimesNewRoman(0)/m/n/12 invocations/ngày
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 158--158
+[]|\TU/TimesNewRoman(0)/m/n/12 Chi phí Lambda
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 158--158
+\TU/TimesNewRoman(0)/m/n/12 vượt container
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 158--158
+\TU/TimesNewRoman(0)/m/n/12 3–10$\OMS/cmsy/m/n/12 ^^B$\TU/TimesNewRoman(0)/m/n/
+12 . VD:
+ []
+
+
+Underfull \hbox (badness 6842) in paragraph at lines 158--158
+\TU/TimesNewRoman(0)/m/n/12 Lambda $\OMS/cmsy/m/n/12 ^^X$\TU/TimesNewRoman(0)/m
+/n/12 $0.20/1M
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 158--158
+\TU/TimesNewRoman(0)/m/n/12 invocations +
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 158--158
+\TU/TimesNewRoman(0)/m/n/12 compute time
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 158--158
+\TU/TimesNewRoman(0)/m/n/12 vs Fargate
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 158--158
+\OMS/cmsy/m/n/12 ^^X$\TU/TimesNewRoman(0)/m/n/12 $0.04/vCPU-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 158--158
+[]|\TU/TimesNewRoman(0)/m/n/12 Batching vào
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 158--158
+\TU/TimesNewRoman(0)/m/n/12 Kafka/Kinesis
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 158--158
+\OMS/cmsy/m/n/12 !$ \TU/TimesNewRoman(0)/m/n/12 xử lý bằng
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 158--158
+\TU/TimesNewRoman(0)/m/n/12 cụm Container
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 158--158
+[]|\TU/TimesNewRoman(0)/m/n/12 Tách thành
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 158--158
+\TU/TimesNewRoman(0)/m/n/12 pipeline Step
+ []
+
+
+Underfull \hbox (badness 5403) in paragraph at lines 158--158
+[]|$\OML/cmm/m/it/12 >$ \TU/TimesNewRoman(0)/m/n/12 1,000 concurrent
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 158--158
+\TU/TimesNewRoman(0)/m/n/12 executions (AWS
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 158--158
+[]|\TU/TimesNewRoman(0)/m/n/12 Throttling hàng
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 158--158
+\TU/TimesNewRoman(0)/m/n/12 loạt khi toàn bộ
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 158--158
+\TU/TimesNewRoman(0)/m/n/12 fleet reconnect sau
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 158--158
+\TU/TimesNewRoman(0)/m/n/12 downtime hoặc
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 158--158
+[]|\TU/TimesNewRoman(0)/m/n/12 Request quota
+ []
+
+
+Underfull \hbox (badness 5374) in paragraph at lines 158--158
+\TU/TimesNewRoman(0)/m/n/12 increase trước hoặc
+ []
+
+File: graphics/hcmut.png Graphic file (type bmp)
+<graphics/hcmut.png>
+[26]
+File: graphics/hcmut.png Graphic file (type bmp)
+<graphics/hcmut.png>
+ [27]) (./content/architecture_styles/edge_cloud_hybrid.tex
+File: graphics/Edge-Cloud-Architecture.png Graphic file (type bmp)
+<graphics/Edge-Cloud-Architecture.png>
+File: graphics/hcmut.png Graphic file (type bmp)
+<graphics/hcmut.png>
+ [28]
+File: graphics/hcmut.png Graphic file (type bmp)
+<graphics/hcmut.png>
+ [29]
+Overfull \hbox (22.29053pt too wide) in alignment at lines 80--87
+ [] [] [] [] 
+ []
+
+
+Overfull \hbox (22.29053pt too wide) in alignment at lines 87--92
+ [] [] [] [] 
+ []
+
+
+Overfull \hbox (22.29053pt too wide) in alignment at lines 92--95
+ [] [] [] [] 
+ []
+
+
+Underfull \hbox (badness 5217) in paragraph at lines 100--101
+[]|\TU/TimesNewRoman(0)/m/n/12 Thêm một tầng kiến
+ []
+
+
+Underfull \hbox (badness 1264) in paragraph at lines 101--102
+\TU/TimesNewRoman(0)/m/n/12 không thể chờ round-
+ []
+
+
+Underfull \hbox (badness 1655) in paragraph at lines 105--106
+\TU/TimesNewRoman(0)/m/n/12 Cloud không thể truy
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 106--107
+\TU/TimesNewRoman(0)/m/n/12 resolution, ordering,
+ []
+
+
+Underfull \hbox (badness 3780) in paragraph at lines 111--112
+[]|\TU/TimesNewRoman(0)/m/n/12 Tổng hợp và lọc tại
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 112--113
+[]|\TU/TimesNewRoman(0)/m/n/12 Phần cứng Edge
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 117--118
+[]|\TU/TimesNewRoman(0)/m/n/12 Dữ liệu nhạy cảm
+ []
+
+
+Underfull \hbox (badness 1264) in paragraph at lines 118--119
+\TU/TimesNewRoman(0)/m/n/12 bằng cấu hình, không
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 119--120
+[]|\TU/TimesNewRoman(0)/m/n/12 Tuân thủ GDPR,
+ []
+
+
+Underfull \hbox (badness 1803) in paragraph at lines 123--124
+[]|\TU/TimesNewRoman(0)/m/n/12 Phân đoạn mạng giới
+ []
+
+
+Underfull \hbox (badness 3128) in paragraph at lines 125--126
+\TU/TimesNewRoman(0)/m/n/12 Gateway có thể trích
+ []
+
+
+Underfull \hbox (badness 1205) in paragraph at lines 125--126
+\TU/TimesNewRoman(0)/m/n/12 xuất chứng chỉ Cloud
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 129--130
+\TU/TimesNewRoman(0)/m/n/12 yêu cầu IoT doanh
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 130--131
+[]|\TU/TimesNewRoman(0)/m/n/12 Mẫu phức tạp nhất
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 130--131
+\TU/TimesNewRoman(0)/m/n/12 — cần chuyên môn
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 130--131
+\TU/TimesNewRoman(0)/m/n/12 edge runtime (K3s,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 130--131
+\TU/TimesNewRoman(0)/m/n/12 Greengrass), và giao
+ []
+
+
+Underfull \hbox (badness 1210) in paragraph at lines 131--132
+[]|\TU/TimesNewRoman(0)/m/n/12 Đội ngũ mới với IoT
+ []
+
+
+Underfull \hbox (badness 5217) in paragraph at lines 135--136
+\TU/TimesNewRoman(0)/m/n/12 bị loại bỏ round-trip
+ []
+
+
+Underfull \hbox (badness 1147) in paragraph at lines 135--136
+\TU/TimesNewRoman(0)/m/n/12 Cloud cho quyết định
+ []
+
+
+Underfull \hbox (badness 1383) in paragraph at lines 137--138
+\TU/TimesNewRoman(0)/m/n/12 bộ, không cần Cloud.
+ []
+
+
+Underfull \hbox (badness 1152) in paragraph at lines 137--138
+\TU/TimesNewRoman(0)/m/n/12 Retrain và deploy mô
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 137--138
+\TU/TimesNewRoman(0)/m/n/12 hình mới đến 1,000
+ []
+
+
+Underfull \hbox (badness 4084) in paragraph at lines 137--138
+\TU/TimesNewRoman(0)/m/n/12 Edge node mất hàng
+ []
+
+
+Overfull \hbox (22.29053pt too wide) in alignment at lines 95--139
+ [] [] [] [] 
+ []
+
+
+ignored: Infinite glue shrinkage found in box being split
+File: graphics/hcmut.png Graphic file (type bmp)
+<graphics/hcmut.png>
+[30]
+File: graphics/hcmut.png Graphic file (type bmp)
+<graphics/hcmut.png>
+ [31]
+Overfull \hbox (88.47588pt too wide) in paragraph at lines 150--152
+\TU/TimesNewRoman(0)/m/n/12 chuyền, chỉ gửi metadata (JSON): \TU/lmtt/m/n/12 {"
+camera_id": 04, "defect_detected": "scratched_surface",
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 189--189
+[]|\TU/TimesNewRoman(0)/b/n/12 Hậu quả khi
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 189--189
+\TU/TimesNewRoman(0)/b/n/12 vượt/không đạt
+ []
+
+
+Underfull \hbox (badness 7576) in paragraph at lines 189--189
+[]|\TU/TimesNewRoman(0)/m/n/12 Ứng dụng yêu cầu
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 189--189
+\TU/TimesNewRoman(0)/m/n/12 50–200ms vi phạm
+ []
+
+
+Underfull \hbox (badness 3701) in paragraph at lines 189--189
+[]|\TU/TimesNewRoman(0)/m/n/12 Edge \TU/TimesNewRoman(0)/b/n/12 bắt buộc \TU/Ti
+mesNewRoman(0)/m/n/12 cho
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 189--189
+[]|\TU/TimesNewRoman(0)/m/n/12 Ingestion rate $\OML/cmm/m/it/12 >$
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 189--189
+\TU/TimesNewRoman(0)/m/n/12 10MB/s sinh ra vs
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 189--189
+[]|\TU/TimesNewRoman(0)/m/n/12 Packet loss, queue
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 189--189
+\TU/TimesNewRoman(0)/m/n/12 overflow, hoặc hóa
+ []
+
+
+Underfull \hbox (badness 4595) in paragraph at lines 189--189
+[]|\TU/TimesNewRoman(0)/m/n/12 Triển khai Edge để
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 189--189
+\TU/TimesNewRoman(0)/m/n/12 execution, lost
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 189--189
+\TU/TimesNewRoman(0)/m/n/12 thảm khốc. Rollout
+ []
+
+
+Underfull \hbox (badness 3942) in paragraph at lines 189--189
+[]|\TU/TimesNewRoman(0)/m/n/12 Bắt đầu với Cloud-
+ []
+
+
+Underfull \hbox (badness 5862) in paragraph at lines 189--189
+\TU/TimesNewRoman(0)/m/n/12 khi đội ngũ trưởng
+ []
+
+
+Underfull \hbox (badness 1960) in paragraph at lines 189--189
+[]|\TU/TimesNewRoman(0)/m/n/12 Dữ liệu giá trị thấp
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 189--189
+[]|\TU/TimesNewRoman(0)/m/n/12 Thêm Edge phức
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 189--189
+\TU/TimesNewRoman(0)/m/n/12 tạp hóa kiến trúc
+ []
+
+
+Underfull \hbox (badness 3713) in paragraph at lines 189--189
+\TU/TimesNewRoman(0)/m/n/12 mà không mang lại
+ []
+
+
+Underfull \hbox (badness 6364) in paragraph at lines 189--189
+\TU/TimesNewRoman(0)/m/n/12 lợi ích tương xứng
+ []
+
+
+Underfull \hbox (badness 4699) in paragraph at lines 189--189
+[]|\TU/TimesNewRoman(0)/m/n/12 Giữ Cloud-only nếu
+ []
+
+
+Underfull \hbox (badness 1546) in paragraph at lines 189--189
+\TU/TimesNewRoman(0)/m/n/12 và latency $\OML/cmm/m/it/12 >$ \TU/TimesNewRoman(0
+)/m/n/12 200ms
+ []
+
+File: graphics/hcmut.png Graphic file (type bmp)
+<graphics/hcmut.png>
+[32]
+File: graphics/hcmut.png Graphic file (type bmp)
+<graphics/hcmut.png>
+ [33]) (./content/architecture_styles/compare.tex)
+(./content/architecture_styles/guide.tex)) (./content/case_study.tex
+(./content/case_study/RollsRoyce.tex) (./content/case_study/JohnDeere.tex)
+(./content/case_study/SiemensMindSphere.tex) (./content/case_study/lessons.tex)
+) (./content/conclusion.tex
+File: graphics/hcmut.png Graphic file (type bmp)
+<graphics/hcmut.png>
+ [34]
+File: graphics/hcmut.png Graphic file (type bmp)
+<graphics/hcmut.png>
+ [35])
+File: graphics/hcmut.png Graphic file (type bmp)
+<graphics/hcmut.png>
+ [36] (./report.bbl)
+File: graphics/hcmut.png Graphic file (type bmp)
+<graphics/hcmut.png>
+ [37]
+runsystem(latexminted cleantemp  --timestamp 20260322235735 E98D2F001DA5678B394
+82EFBDF5770DC)...executed safely (allowed).
+
+ (./report.aux)
+ ***********
+LaTeX2e <2025-11-01>
+L3 programming layer <2026-01-19>
+ ***********
+
+
+LaTeX Font Warning: Some font shapes were not available, defaults substituted.
+
+Package rerunfilecheck Info: File `report.out' has not changed.
+(rerunfilecheck)             Checksum: 823B0CBD93F0838925C9916BBA9B46C9;8889.
+ ) 
+Here is how much of TeX's memory you used:
+ 42342 strings out of 468168
+ 921090 string characters out of 5432815
+ 1568905 words of memory out of 5000000
+ 70335 multiletter control sequences out of 15000+600000
+ 642980 words of font info for 103 fonts, out of 8000000 for 9000
+ 1348 hyphenation exceptions out of 8191
+ 99i,25n,108p,898b,1212s stack positions out of 10000i,1000n,20000p,200000b,200000s
+
+Output written on report.pdf (37 pages).
