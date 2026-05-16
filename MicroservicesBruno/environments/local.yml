@@ -1,0 +1,4 @@
+name: local
+variables:
+  - name: AI_BASE_URL
+    value: http://localhost:11434

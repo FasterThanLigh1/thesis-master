@@ -1,0 +1,9 @@
+\section{Abstract}
+
+In Microservices architecture, ensuring the reliability of individual services through integration testing poses significant challenges due to intricate dependencies on external components such as databases and other microservices (inter-service communication). Current automated test generation methods, including standard AI-based approaches, often fail to capture the network communication context, leading to inaccurate or non-executable test scenarios due to the lack of proper mocking configurations.
+
+This thesis proposes and develops an IntelliJ IDEA Plugin to automate the generation of integration tests for Spring Boot Microservices. The solution leverages the Program Structure Interface (PSI) API to perform real-time static analysis. It extracts not only internal data flows but also identifies external service interfaces (e.g., Feign Clients, RestTemplate). This structural information constructs a rich context for Retrieval-Augmented Generation (RAG), enabling the Large Language Model (LLM) to comprehend the specific contracts between services.
+
+The outcome of this thesis is a tool that assists Java developers in automatically generating executable Integration Test Cases that strictly adhere to the project's data flow and security constraints, thereby enhancing software productivity and reliability.
+
+\clearpage

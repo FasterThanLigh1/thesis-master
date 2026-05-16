@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999998 (TeX Live 2026) (preloaded format=xelatex 2026.3.21)  28 MAR 2026 13:24
+This is XeTeX, Version 3.141592653-2.6-0.999998 (TeX Live 2026) (preloaded format=xelatex 2026.3.21)  29 MAR 2026 09:07
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1546,7 +1546,17 @@ Overfull \hbox (12.00002pt too wide) in paragraph at lines 85--85
 
 [1
 
-] (./report.toc)
+] (./abstract.tex
+Overfull \hbox (9.61136pt too wide) in paragraph at lines 3--4
+[]\TU/TimesNewRoman(0)/m/n/12 In Microservices architecture, ensuring the relia
+bility of individual services through integration
+ []
+
+File: graphics/hcmut.png Graphic file (type bmp)
+<graphics/hcmut.png>
+[2
+
+]) (./report.toc)
 \tf@toc=\write6
 \openout6 = `report.toc'.
 
@@ -1560,25 +1570,25 @@ Overfull \hbox (12.00002pt too wide) in paragraph at lines 85--85
 
 File: graphics/hcmut.png Graphic file (type bmp)
 <graphics/hcmut.png>
- [2
+ [3
 
 ] (./content/overview.tex
 File: graphics/hcmut.png Graphic file (type bmp)
 <graphics/hcmut.png>
 
-[3
+[4
 
 ]
 File: graphics/hcmut.png Graphic file (type bmp)
 <graphics/hcmut.png>
- [4])
+ [5])
 File: graphics/hcmut.png Graphic file (type bmp)
 <graphics/hcmut.png>
- [5] (./report.bbl)
+ [6] (./report.bbl)
 File: graphics/hcmut.png Graphic file (type bmp)
 <graphics/hcmut.png>
- [6]
-runsystem(latexminted cleantemp  --timestamp 20260328132449 E98D2F001DA5678B394
+ [7]
+runsystem(latexminted cleantemp  --timestamp 20260329090747 E98D2F001DA5678B394
 82EFBDF5770DC)...executed safely (allowed).
 
  (./report.aux)
@@ -1591,15 +1601,15 @@ L3 programming layer <2026-01-19>
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
 Package rerunfilecheck Info: File `report.out' has not changed.
-(rerunfilecheck)             Checksum: D8DB7F115BBEDDCDF1627FFFEA0D9F2F;1090.
+(rerunfilecheck)             Checksum: 4686BA98B0FF1E6A1BB4545FA4996602;1173.
  ) 
 Here is how much of TeX's memory you used:
- 41327 strings out of 468168
- 901597 string characters out of 5432815
+ 41334 strings out of 468168
+ 901725 string characters out of 5432815
  1493493 words of memory out of 5000000
- 69390 multiletter control sequences out of 15000+600000
+ 69395 multiletter control sequences out of 15000+600000
  642980 words of font info for 103 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 89i,24n,104p,576b,978s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 89i,24n,104p,606b,978s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on report.pdf (6 pages).
+Output written on report.pdf (7 pages).
