@@ -1,11 +1,11 @@
 info:
-  name: /users
+  name: get accounts
   type: http
   seq: 2
 
 http:
   method: GET
-  url: http://localhost:8080/auth/accounts
+  url: "{{BASE_URL}}/auth/accounts"
   auth: inherit
 
 settings:
